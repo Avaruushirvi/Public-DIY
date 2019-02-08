@@ -1,6 +1,7 @@
 Class teacher: Hannu "Vito" Laurinen
 ************************************
 Body: Birch (from own forest)
+Fretboard top marks: Juniper (from own forest)
 Neck: From local store (Kitarataivas)
 Fretboard: From local store (Kitarataivas)
 Bridge: Aliexpress
@@ -10,3 +11,4 @@ Neck plate: From local sheet metal manufacturing company (Sate Steel)
 Mic parts: Aliexpress, winding by my self
 Strap: Own manufacturing
 Strap locks: Aliexpress
+Signal line from mics: Aliexpress (shielded signal cabel (RF signal cable))
