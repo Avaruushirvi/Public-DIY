@@ -27,9 +27,15 @@ $INSBASE
 9
 $EXTMIN
 10
+<<<<<<< HEAD
 -200
 20
 -4.89858719659e-014
+=======
+-650
+20
+-3.34420352066e-014
+>>>>>>> parent of 7d640b4... Updated file
 30
 0
 9
@@ -37,7 +43,11 @@ $EXTMAX
 10
 800
 20
+<<<<<<< HEAD
 1300
+=======
+1450
+>>>>>>> parent of 7d640b4... Updated file
 30
 0
 9
@@ -67,7 +77,11 @@ STANDARD
 9
 $CLAYER
 8
+<<<<<<< HEAD
 Leg resting plane
+=======
+Stand
+>>>>>>> parent of 7d640b4... Updated file
 9
 $DIMASZ
 40
@@ -157,9 +171,15 @@ $GRIDUNIT
 9
 $PINSBASE
 10
+<<<<<<< HEAD
 95.4310344828
 20
 56
+=======
+0
+20
+0
+>>>>>>> parent of 7d640b4... Updated file
 30
 0
 9
@@ -171,9 +191,15 @@ $PLIMMIN
 9
 $PLIMMAX
 10
+<<<<<<< HEAD
 210
 20
 297
+=======
+297
+20
+210
+>>>>>>> parent of 7d640b4... Updated file
 9
 $INSUNITS
 70
@@ -181,7 +207,11 @@ $INSUNITS
 9
 $PSVPSCALE
 40
+<<<<<<< HEAD
 0.127586206897
+=======
+0
+>>>>>>> parent of 7d640b4... Updated file
 0
 ENDSEC
 0
@@ -229,9 +259,15 @@ AcDbViewportTableRecord
 21
 1
 12
+<<<<<<< HEAD
 11.4909744628
 22
 472.307077189
+=======
+757.696078431
+22
+739.215686275
+>>>>>>> parent of 7d640b4... Updated file
 13
 0
 23
@@ -255,6 +291,7 @@ AcDbViewportTableRecord
 27
 0
 37
+<<<<<<< HEAD
 0
 40
 59.4167460029
@@ -263,6 +300,44 @@ AcDbViewportTableRecord
 42
 50
 43
+0
+44
+0
+50
+0
+51
+0
+71
+0
+72
+100
+73
+1
+74
+3
+75
+0
+76
+1
+77
+0
+78
+0
+281
+0
+65
+1
+110
+=======
+0
+40
+1506.8627451
+41
+1.90943396226
+42
+50
+43
+>>>>>>> parent of 7d640b4... Updated file
 0
 44
 0
@@ -433,9 +508,15 @@ Dot . . . . . . . . . . . . . . . . . . . . . .
 40
 6.35
 49
+<<<<<<< HEAD
 0
 74
 0
+=======
+0
+74
+0
+>>>>>>> parent of 7d640b4... Updated file
 49
 -6.35
 74
@@ -463,9 +544,15 @@ Dot (.5x) .....................................
 40
 3.175
 49
+<<<<<<< HEAD
 0
 74
 0
+=======
+0
+74
+0
+>>>>>>> parent of 7d640b4... Updated file
 49
 -3.175
 74
@@ -493,9 +580,15 @@ Dot (2x) .  .  .  .  .  .  .  .  .  .  .  .  .
 40
 12.7
 49
+<<<<<<< HEAD
 0
 74
 0
+=======
+0
+74
+0
+>>>>>>> parent of 7d640b4... Updated file
 49
 -12.7
 74
@@ -621,9 +714,15 @@ Dash dot __ . __ . __ . __ . __ . __ . __ . __
 74
 0
 49
+<<<<<<< HEAD
 0
 74
 0
+=======
+0
+74
+0
+>>>>>>> parent of 7d640b4... Updated file
 49
 -6.35
 74
@@ -657,12 +756,21 @@ Dash dot (.5x) _._._._._._._._._._._._._._._.
 49
 -3.175
 74
+<<<<<<< HEAD
 0
 49
 0
 74
 0
 49
+=======
+0
+49
+0
+74
+0
+49
+>>>>>>> parent of 7d640b4... Updated file
 -3.175
 74
 0
@@ -695,12 +803,21 @@ Dash dot (2x) ____  .  ____  .  ____  .  ___
 49
 -12.7
 74
+<<<<<<< HEAD
 0
 49
 0
 74
 0
 49
+=======
+0
+49
+0
+74
+0
+49
+>>>>>>> parent of 7d640b4... Updated file
 -12.7
 74
 0
@@ -733,19 +850,34 @@ Divide ____ . . ____ . . ____ . . ____ . . ____
 49
 -6.35
 74
+<<<<<<< HEAD
 0
 49
 0
 74
 0
 49
+=======
+0
+49
+0
+74
+0
+49
+>>>>>>> parent of 7d640b4... Updated file
 -6.35
 74
 0
 49
+<<<<<<< HEAD
 0
 74
 0
+=======
+0
+74
+0
+>>>>>>> parent of 7d640b4... Updated file
 49
 -6.35
 74
@@ -781,9 +913,15 @@ Divide (.5x) __..__..__..__..__..__..__..__.._
 74
 0
 49
+<<<<<<< HEAD
 0
 74
 0
+=======
+0
+74
+0
+>>>>>>> parent of 7d640b4... Updated file
 49
 -3.175
 74
@@ -835,9 +973,15 @@ Divide (2x) ________  .  .  ________  .  .  _
 74
 0
 49
+<<<<<<< HEAD
 0
 74
 0
+=======
+0
+74
+0
+>>>>>>> parent of 7d640b4... Updated file
 49
 -12.7
 74
@@ -881,9 +1025,15 @@ Border __ __ . __ __ . __ __ . __ __ . __ __ .
 74
 0
 49
+<<<<<<< HEAD
 0
 74
 0
+=======
+0
+74
+0
+>>>>>>> parent of 7d640b4... Updated file
 49
 -6.35
 74
@@ -927,9 +1077,15 @@ Border (.5x) __.__.__.__.__.__.__.__.__.__.__.
 74
 0
 49
+<<<<<<< HEAD
 0
 74
 0
+=======
+0
+74
+0
+>>>>>>> parent of 7d640b4... Updated file
 49
 -3.175
 74
@@ -973,9 +1129,15 @@ Border (2x) ____  ____  .  ____  ____  .  ___
 74
 0
 49
+<<<<<<< HEAD
 0
 74
 0
+=======
+0
+74
+0
+>>>>>>> parent of 7d640b4... Updated file
 49
 -12.7
 74
@@ -1119,9 +1281,15 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
 2
+<<<<<<< HEAD
 0
 70
 0
+=======
+0
+70
+0
+>>>>>>> parent of 7d640b4... Updated file
 62
 7
 6
@@ -1129,7 +1297,11 @@ CONTINUOUS
 290
 0
 370
+<<<<<<< HEAD
 25
+=======
+100
+>>>>>>> parent of 7d640b4... Updated file
 390
 F
 0
@@ -1158,6 +1330,7 @@ F
 LAYER
 5
 45
+<<<<<<< HEAD
 330
 2
 100
@@ -1180,6 +1353,8 @@ F
 LAYER
 5
 46
+=======
+>>>>>>> parent of 7d640b4... Updated file
 330
 2
 100
@@ -1195,13 +1370,21 @@ Legs
 6
 CONTINUOUS
 370
+<<<<<<< HEAD
 25
+=======
+100
+>>>>>>> parent of 7d640b4... Updated file
 390
 F
 0
 LAYER
 5
+<<<<<<< HEAD
 47
+=======
+46
+>>>>>>> parent of 7d640b4... Updated file
 330
 2
 100
@@ -1211,19 +1394,31 @@ AcDbLayerTableRecord
 2
 Measurements
 70
+<<<<<<< HEAD
 1
+=======
+0
+>>>>>>> parent of 7d640b4... Updated file
 62
 2
 6
 CONTINUOUS
 370
+<<<<<<< HEAD
 25
+=======
+100
+>>>>>>> parent of 7d640b4... Updated file
 390
 F
 0
 LAYER
 5
+<<<<<<< HEAD
 48
+=======
+47
+>>>>>>> parent of 7d640b4... Updated file
 330
 2
 100
@@ -1241,7 +1436,11 @@ Stand
 6
 CONTINUOUS
 370
+<<<<<<< HEAD
 25
+=======
+100
+>>>>>>> parent of 7d640b4... Updated file
 390
 F
 0
@@ -1261,7 +1460,11 @@ AcDbSymbolTable
 0
 STYLE
 5
+<<<<<<< HEAD
 49
+=======
+48
+>>>>>>> parent of 7d640b4... Updated file
 330
 2
 100
@@ -1363,7 +1566,11 @@ AcDbDimStyleTable
 0
 DIMSTYLE
 105
+<<<<<<< HEAD
 4A
+=======
+49
+>>>>>>> parent of 7d640b4... Updated file
 330
 A
 100
@@ -1545,7 +1752,11 @@ AcDbBlockTableRecord
 0
 BLOCK_RECORD
 5
+<<<<<<< HEAD
 4B
+=======
+4A
+>>>>>>> parent of 7d640b4... Updated file
 330
 1
 100
@@ -1553,7 +1764,11 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
 2
+<<<<<<< HEAD
 *D3
+=======
+*D4
+>>>>>>> parent of 7d640b4... Updated file
 70
 0
 280
@@ -1563,7 +1778,11 @@ AcDbBlockTableRecord
 0
 BLOCK_RECORD
 5
+<<<<<<< HEAD
 4E
+=======
+4D
+>>>>>>> parent of 7d640b4... Updated file
 330
 1
 100
@@ -1571,7 +1790,11 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
 2
+<<<<<<< HEAD
 *D2
+=======
+*D7
+>>>>>>> parent of 7d640b4... Updated file
 70
 0
 280
@@ -1581,7 +1804,11 @@ AcDbBlockTableRecord
 0
 BLOCK_RECORD
 5
+<<<<<<< HEAD
 51
+=======
+50
+>>>>>>> parent of 7d640b4... Updated file
 330
 1
 100
@@ -1589,7 +1816,11 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
 2
+<<<<<<< HEAD
 *D6
+=======
+*D2
+>>>>>>> parent of 7d640b4... Updated file
 70
 0
 280
@@ -1599,6 +1830,7 @@ AcDbBlockTableRecord
 0
 BLOCK_RECORD
 5
+<<<<<<< HEAD
 54
 330
 1
@@ -1618,6 +1850,9 @@ AcDbBlockTableRecord
 BLOCK_RECORD
 5
 57
+=======
+53
+>>>>>>> parent of 7d640b4... Updated file
 330
 1
 100
@@ -1635,7 +1870,11 @@ AcDbBlockTableRecord
 0
 BLOCK_RECORD
 5
+<<<<<<< HEAD
 5A
+=======
+56
+>>>>>>> parent of 7d640b4... Updated file
 330
 1
 100
@@ -1643,7 +1882,11 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
 2
+<<<<<<< HEAD
 *D4
+=======
+*D6
+>>>>>>> parent of 7d640b4... Updated file
 70
 0
 280
@@ -1653,7 +1896,11 @@ AcDbBlockTableRecord
 0
 BLOCK_RECORD
 5
+<<<<<<< HEAD
 5D
+=======
+59
+>>>>>>> parent of 7d640b4... Updated file
 330
 1
 100
@@ -1671,7 +1918,11 @@ AcDbBlockTableRecord
 0
 BLOCK_RECORD
 5
+<<<<<<< HEAD
 60
+=======
+5C
+>>>>>>> parent of 7d640b4... Updated file
 330
 1
 100
@@ -1679,7 +1930,11 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
 2
+<<<<<<< HEAD
 *D8
+=======
+*D3
+>>>>>>> parent of 7d640b4... Updated file
 70
 0
 280
@@ -1747,9 +2002,15 @@ AcDbBlockBegin
 2
 *Paper_Space
 70
+<<<<<<< HEAD
 0
 10
 0
+=======
+0
+10
+0
+>>>>>>> parent of 7d640b4... Updated file
 20
 0
 30
@@ -1773,9 +2034,15 @@ AcDbBlockEnd
 0
 BLOCK
 5
+<<<<<<< HEAD
 4C
 330
 4B
+=======
+4B
+330
+4A
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -1783,7 +2050,11 @@ AcDbEntity
 100
 AcDbBlockBegin
 2
+<<<<<<< HEAD
 *D3
+=======
+*D4
+>>>>>>> parent of 7d640b4... Updated file
 70
 1
 10
@@ -1791,6 +2062,7 @@ AcDbBlockBegin
 20
 0
 3
+<<<<<<< HEAD
 *D3
 1
 
@@ -1798,6 +2070,39 @@ AcDbBlockBegin
 SOLID
 5
 63
+=======
+*D4
+1
+
+0
+LINE
+5
+5F
+100
+AcDbEntity
+8
+Measurements
+6
+CONTINUOUS
+62
+7
+370
+0
+100
+AcDbLine
+10
+390
+20
+700
+11
+390
+21
+840
+0
+SOLID
+5
+60
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -1811,6 +2116,7 @@ CONTINUOUS
 100
 AcDbTrace
 10
+<<<<<<< HEAD
 -197.206002068
 20
 783.718572906
@@ -1838,6 +2144,35 @@ AcDbTrace
 LINE
 5
 64
+=======
+390
+20
+750
+30
+0
+11
+394.162846578
+21
+725
+31
+0
+12
+385.837153422
+22
+725
+32
+0
+13
+385.837153422
+23
+725
+33
+0
+0
+SOLID
+5
+61
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -1849,6 +2184,7 @@ CONTINUOUS
 370
 0
 100
+<<<<<<< HEAD
 AcDbLine
 10
 -185
@@ -1862,6 +2198,37 @@ AcDbLine
 MTEXT
 5
 65
+=======
+AcDbTrace
+10
+390
+20
+790
+30
+0
+11
+385.837153422
+21
+815
+31
+0
+12
+394.162846578
+22
+815
+32
+0
+13
+394.162846578
+23
+815
+33
+0
+0
+MTEXT
+5
+62
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -1875,21 +2242,35 @@ CONTINUOUS
 100
 AcDbMText
 10
+<<<<<<< HEAD
 -231.595928529
 20
 846.686043893
+=======
+358.75
+20
+848.333333333
+>>>>>>> parent of 7d640b4... Updated file
 30
 0
 40
 37.5
 41
+<<<<<<< HEAD
 79.1666666667
+=======
+91.6666666667
+>>>>>>> parent of 7d640b4... Updated file
 71
 5
 72
 1
 1
+<<<<<<< HEAD
 15.0
+=======
+40.0
+>>>>>>> parent of 7d640b4... Updated file
 7
 standard
 210
@@ -1899,11 +2280,16 @@ standard
 230
 1
 50
+<<<<<<< HEAD
 324.462322207
+=======
+90
+>>>>>>> parent of 7d640b4... Updated file
 73
 2
 44
 1
+<<<<<<< HEAD
 0
 ENDBLK
 5
@@ -1944,6 +2330,12 @@ AcDbBlockBegin
 LINE
 5
 66
+=======
+0
+LINE
+5
+63
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -1952,6 +2344,7 @@ Measurements
 CONTINUOUS
 62
 7
+<<<<<<< HEAD
 370
 0
 100
@@ -2008,6 +2401,24 @@ AcDbTrace
 SOLID
 5
 68
+=======
+370
+0
+100
+AcDbLine
+10
+202.499994944
+20
+750
+11
+402.5
+21
+750
+0
+LINE
+5
+64
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2017,6 +2428,7 @@ CONTINUOUS
 62
 7
 370
+<<<<<<< HEAD
 0
 100
 AcDbTrace
@@ -2079,11 +2491,55 @@ AcDbMText
 7
 standard
 210
+=======
 0
-220
+100
+AcDbLine
+10
+192.5
+20
+790
+11
+402.5
+21
+790
 0
-230
+ENDBLK
+5
+4C
+330
+4A
+100
+AcDbEntity
+8
+0
+100
+AcDbBlockEnd
+0
+BLOCK
+5
+4E
+330
+4D
+100
+AcDbEntity
+8
+0
+100
+AcDbBlockBegin
+2
+*D7
+70
 1
+10
+>>>>>>> parent of 7d640b4... Updated file
+0
+20
+0
+3
+*D7
+1
+<<<<<<< HEAD
 50
 0
 73
@@ -2094,6 +2550,13 @@ standard
 LINE
 5
 6A
+=======
+
+0
+LINE
+5
+65
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2107,6 +2570,7 @@ CONTINUOUS
 100
 AcDbLine
 10
+<<<<<<< HEAD
 -200
 20
 1097.5
@@ -2118,6 +2582,19 @@ AcDbLine
 LINE
 5
 6B
+=======
+185.370144267
+20
+1006.07050808
+11
+208.504084187
+21
+992.714121642
+0
+LINE
+5
+66
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2127,6 +2604,7 @@ CONTINUOUS
 62
 7
 370
+<<<<<<< HEAD
 0
 100
 AcDbLine
@@ -2178,6 +2656,23 @@ AcDbBlockBegin
 LINE
 5
 6C
+=======
+0
+100
+AcDbLine
+10
+20
+20
+1292.5
+11
+20
+21
+1319.21277287
+0
+ARC
+5
+67
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2189,6 +2684,7 @@ CONTINUOUS
 370
 0
 100
+<<<<<<< HEAD
 AcDbLine
 10
 310
@@ -2202,6 +2698,25 @@ AcDbLine
 SOLID
 5
 6D
+=======
+AcDbCircle
+10
+20
+20
+1101.54700538
+40
+205.165767491
+100
+AcDbArc
+50
+330.000000003
+51
+90
+0
+SOLID
+5
+68
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2215,6 +2730,7 @@ CONTINUOUS
 100
 AcDbTrace
 10
+<<<<<<< HEAD
 310
 20
 785
@@ -2236,12 +2752,39 @@ AcDbTrace
 305.837153422
 23
 760
+=======
+197.678766639
+20
+998.964121641
+30
+0
+11
+205.112118728
+21
+1023.19374335
+31
+0
+12
+212.562472466
+22
+1019.47764383
+32
+0
+13
+212.562472466
+23
+1019.47764383
+>>>>>>> parent of 7d640b4... Updated file
 33
 0
 0
 SOLID
 5
+<<<<<<< HEAD
 6E
+=======
+69
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2255,6 +2798,7 @@ CONTINUOUS
 100
 AcDbTrace
 10
+<<<<<<< HEAD
 310
 20
 790
@@ -2276,12 +2820,39 @@ AcDbTrace
 314.162846578
 23
 815
+=======
+20
+20
+1306.71277287
+30
+0
+11
+45.2070842477
+21
+1309.34567913
+31
+0
+12
+44.7001439722
+22
+1301.03543376
+32
+0
+13
+44.7001439722
+23
+1301.03543376
+>>>>>>> parent of 7d640b4... Updated file
 33
 0
 0
 MTEXT
 5
+<<<<<<< HEAD
 6F
+=======
+6A
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2295,14 +2866,21 @@ CONTINUOUS
 100
 AcDbMText
 10
+<<<<<<< HEAD
 278.75
 20
 831.666666667
+=======
+208.504084179
+20
+1210.37988913
+>>>>>>> parent of 7d640b4... Updated file
 30
 0
 40
 37.5
 41
+<<<<<<< HEAD
 58.3333333333
 71
 5
@@ -2310,6 +2888,15 @@ AcDbMText
 1
 1
 5.0
+=======
+162.5
+71
+8
+72
+1
+1
+120.00%%D
+>>>>>>> parent of 7d640b4... Updated file
 7
 standard
 210
@@ -2319,12 +2906,17 @@ standard
 230
 1
 50
+<<<<<<< HEAD
 90
+=======
+300.000000001
+>>>>>>> parent of 7d640b4... Updated file
 73
 2
 44
 1
 0
+<<<<<<< HEAD
 LINE
 5
 70
@@ -2378,6 +2970,13 @@ ENDBLK
 53
 330
 51
+=======
+ENDBLK
+5
+4F
+330
+4D
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2387,9 +2986,15 @@ AcDbBlockEnd
 0
 BLOCK
 5
+<<<<<<< HEAD
 55
 330
 54
+=======
+51
+330
+50
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2397,7 +3002,11 @@ AcDbEntity
 100
 AcDbBlockBegin
 2
+<<<<<<< HEAD
 *D7
+=======
+*D2
+>>>>>>> parent of 7d640b4... Updated file
 70
 1
 10
@@ -2405,13 +3014,21 @@ AcDbBlockBegin
 20
 0
 3
+<<<<<<< HEAD
 *D7
+=======
+*D2
+>>>>>>> parent of 7d640b4... Updated file
 1
 
 0
 LINE
 5
+<<<<<<< HEAD
 72
+=======
+6B
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2425,6 +3042,7 @@ CONTINUOUS
 100
 AcDbLine
 10
+<<<<<<< HEAD
 185.370144267
 20
 1006.07050808
@@ -2488,6 +3106,19 @@ AcDbArc
 SOLID
 5
 75
+=======
+-200
+20
+1400
+11
+200
+21
+1400
+0
+SOLID
+5
+6C
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2501,6 +3132,7 @@ CONTINUOUS
 100
 AcDbTrace
 10
+<<<<<<< HEAD
 197.678766639
 20
 998.964121641
@@ -2522,12 +3154,39 @@ AcDbTrace
 212.562472466
 23
 1019.47764383
+=======
+-200
+20
+1400
+30
+0
+11
+-175
+21
+1404.16284658
+31
+0
+12
+-175
+22
+1395.83715342
+32
+0
+13
+-175
+23
+1395.83715342
+>>>>>>> parent of 7d640b4... Updated file
 33
 0
 0
 SOLID
 5
+<<<<<<< HEAD
 76
+=======
+6D
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2541,6 +3200,7 @@ CONTINUOUS
 100
 AcDbTrace
 10
+<<<<<<< HEAD
 20
 20
 1306.71277287
@@ -2562,12 +3222,39 @@ AcDbTrace
 44.7001439722
 23
 1301.03543376
+=======
+200
+20
+1400
+30
+0
+11
+175
+21
+1395.83715342
+31
+0
+12
+175
+22
+1404.16284658
+32
+0
+13
+175
+23
+1404.16284658
+>>>>>>> parent of 7d640b4... Updated file
 33
 0
 0
 MTEXT
 5
+<<<<<<< HEAD
 77
+=======
+6E
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2581,14 +3268,21 @@ CONTINUOUS
 100
 AcDbMText
 10
+<<<<<<< HEAD
 208.504084179
 20
 1210.37988913
+=======
+1.91344742785e-015
+20
+1431.25
+>>>>>>> parent of 7d640b4... Updated file
 30
 0
 40
 37.5
 41
+<<<<<<< HEAD
 162.5
 71
 8
@@ -2596,6 +3290,15 @@ AcDbMText
 1
 1
 120.00%%D
+=======
+120.833333333
+71
+5
+72
+1
+1
+400.0
+>>>>>>> parent of 7d640b4... Updated file
 7
 standard
 210
@@ -2605,17 +3308,77 @@ standard
 230
 1
 50
+<<<<<<< HEAD
 300.000000001
+=======
+0
+>>>>>>> parent of 7d640b4... Updated file
 73
 2
 44
 1
 0
+<<<<<<< HEAD
 ENDBLK
 5
 56
 330
 54
+=======
+LINE
+5
+6F
+100
+AcDbEntity
+8
+Measurements
+6
+CONTINUOUS
+62
+7
+370
+0
+100
+AcDbLine
+10
+-200
+20
+1097.5
+11
+-200
+21
+1412.5
+0
+LINE
+5
+70
+100
+AcDbEntity
+8
+Measurements
+6
+CONTINUOUS
+62
+7
+370
+0
+100
+AcDbLine
+10
+200
+20
+1097.5
+11
+200
+21
+1412.5
+0
+ENDBLK
+5
+52
+330
+50
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2625,9 +3388,15 @@ AcDbBlockEnd
 0
 BLOCK
 5
+<<<<<<< HEAD
 58
 330
 57
+=======
+54
+330
+53
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2649,7 +3418,11 @@ AcDbBlockBegin
 0
 LINE
 5
+<<<<<<< HEAD
 78
+=======
+71
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2664,6 +3437,7 @@ CONTINUOUS
 AcDbLine
 10
 -600
+<<<<<<< HEAD
 20
 0
 11
@@ -2689,6 +3463,32 @@ AcDbTrace
 10
 -600
 20
+=======
+20
+0
+11
+-600
+21
+790
+0
+SOLID
+5
+72
+100
+AcDbEntity
+8
+Measurements
+6
+CONTINUOUS
+62
+7
+370
+0
+100
+AcDbTrace
+10
+-600
+20
 0
 30
 0
@@ -2713,7 +3513,7 @@ AcDbTrace
 0
 SOLID
 5
-7A
+73
 100
 AcDbEntity
 8
@@ -2753,7 +3553,7 @@ AcDbTrace
 0
 MTEXT
 5
-7B
+74
 100
 AcDbEntity
 8
@@ -2785,9 +3585,34 @@ AcDbMText
 7
 standard
 210
+>>>>>>> parent of 7d640b4... Updated file
 0
-220
+30
 0
+<<<<<<< HEAD
+11
+-604.162846578
+21
+25
+31
+0
+12
+-595.837153422
+22
+25
+32
+0
+13
+-595.837153422
+23
+25
+33
+0
+0
+SOLID
+5
+7A
+=======
 230
 1
 50
@@ -2799,7 +3624,7 @@ standard
 0
 LINE
 5
-7C
+75
 100
 AcDbEntity
 8
@@ -2823,7 +3648,7 @@ AcDbLine
 0
 LINE
 5
-7D
+76
 100
 AcDbEntity
 8
@@ -2847,9 +3672,9 @@ AcDbLine
 0
 ENDBLK
 5
-59
+55
 330
-57
+53
 100
 AcDbEntity
 8
@@ -2859,9 +3684,9 @@ AcDbBlockEnd
 0
 BLOCK
 5
-5B
+57
 330
-5A
+56
 100
 AcDbEntity
 8
@@ -2869,7 +3694,7 @@ AcDbEntity
 100
 AcDbBlockBegin
 2
-*D4
+*D6
 70
 1
 10
@@ -2877,13 +3702,13 @@ AcDbBlockBegin
 20
 0
 3
-*D4
+*D6
 1
 
 0
 LINE
 5
-7E
+77
 100
 AcDbEntity
 8
@@ -2897,6 +3722,338 @@ CONTINUOUS
 100
 AcDbLine
 10
+310
+20
+735
+11
+310
+21
+840
+0
+SOLID
+5
+78
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+Measurements
+6
+CONTINUOUS
+62
+7
+370
+<<<<<<< HEAD
+0
+100
+AcDbTrace
+10
+-600
+=======
+0
+100
+AcDbTrace
+10
+310
+20
+785
+30
+0
+11
+314.162846578
+21
+760
+31
+0
+12
+305.837153422
+22
+760
+32
+0
+13
+305.837153422
+23
+760
+33
+0
+0
+SOLID
+5
+79
+100
+AcDbEntity
+8
+Measurements
+6
+CONTINUOUS
+62
+7
+370
+0
+100
+AcDbTrace
+10
+310
+>>>>>>> parent of 7d640b4... Updated file
+20
+790
+30
+0
+11
+<<<<<<< HEAD
+-595.837153422
+21
+765
+31
+0
+12
+-604.162846578
+22
+765
+32
+0
+13
+-604.162846578
+23
+765
+33
+0
+0
+MTEXT
+5
+7B
+=======
+305.837153422
+21
+815
+31
+0
+12
+314.162846578
+22
+815
+32
+0
+13
+314.162846578
+23
+815
+33
+0
+0
+MTEXT
+5
+7A
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+Measurements
+6
+CONTINUOUS
+62
+7
+370
+0
+100
+AcDbMText
+10
+<<<<<<< HEAD
+-631.25
+20
+395
+=======
+278.75
+20
+831.666666667
+>>>>>>> parent of 7d640b4... Updated file
+30
+0
+40
+37.5
+41
+<<<<<<< HEAD
+116.666666667
+=======
+58.3333333333
+>>>>>>> parent of 7d640b4... Updated file
+71
+5
+72
+1
+1
+<<<<<<< HEAD
+790.0
+=======
+5.0
+>>>>>>> parent of 7d640b4... Updated file
+7
+standard
+210
+0
+220
+0
+230
+1
+50
+90
+73
+2
+44
+1
+0
+LINE
+5
+<<<<<<< HEAD
+7C
+=======
+7B
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+Measurements
+6
+CONTINUOUS
+62
+7
+370
+0
+100
+AcDbLine
+10
+<<<<<<< HEAD
+-182.883293806
+20
+9.18454765367e-016
+11
+-612.5
+21
+1.53075794228e-015
+0
+LINE
+5
+7D
+=======
+192.5
+20
+785
+11
+322.5
+21
+785
+0
+LINE
+5
+7C
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+Measurements
+6
+CONTINUOUS
+62
+7
+370
+0
+100
+AcDbLine
+10
+<<<<<<< HEAD
+-192.5
+20
+790
+11
+-612.5
+=======
+192.5
+20
+790
+11
+322.5
+>>>>>>> parent of 7d640b4... Updated file
+21
+790
+0
+ENDBLK
+5
+<<<<<<< HEAD
+59
+330
+57
+=======
+58
+330
+56
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+0
+100
+AcDbBlockEnd
+0
+BLOCK
+5
+<<<<<<< HEAD
+5B
+330
+5A
+=======
+5A
+330
+59
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+0
+100
+AcDbBlockBegin
+2
+<<<<<<< HEAD
+*D4
+=======
+*D5
+>>>>>>> parent of 7d640b4... Updated file
+70
+1
+10
+0
+20
+0
+3
+<<<<<<< HEAD
+*D4
+=======
+*D5
+>>>>>>> parent of 7d640b4... Updated file
+1
+
+0
+LINE
+5
+<<<<<<< HEAD
+7E
+=======
+7D
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+Measurements
+6
+CONTINUOUS
+62
+7
+370
+0
+100
+AcDbLine
+10
+<<<<<<< HEAD
 390
 20
 700
@@ -2908,6 +4065,19 @@ AcDbLine
 SOLID
 5
 7F
+=======
+470
+20
+700
+11
+470
+21
+820
+0
+SOLID
+5
+7E
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2921,25 +4091,41 @@ CONTINUOUS
 100
 AcDbTrace
 10
+<<<<<<< HEAD
 390
+=======
+470
+>>>>>>> parent of 7d640b4... Updated file
 20
 750
 30
 0
 11
+<<<<<<< HEAD
 394.162846578
+=======
+474.162846578
+>>>>>>> parent of 7d640b4... Updated file
 21
 725
 31
 0
 12
+<<<<<<< HEAD
 385.837153422
+=======
+465.837153422
+>>>>>>> parent of 7d640b4... Updated file
 22
 725
 32
 0
 13
+<<<<<<< HEAD
 385.837153422
+=======
+465.837153422
+>>>>>>> parent of 7d640b4... Updated file
 23
 725
 33
@@ -2947,7 +4133,11 @@ AcDbTrace
 0
 SOLID
 5
+<<<<<<< HEAD
 80
+=======
+7F
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -2961,6 +4151,7 @@ CONTINUOUS
 100
 AcDbTrace
 10
+<<<<<<< HEAD
 390
 20
 790
@@ -2988,6 +4179,35 @@ AcDbTrace
 MTEXT
 5
 81
+=======
+470
+20
+770
+30
+0
+11
+465.837153422
+21
+795
+31
+0
+12
+474.162846578
+22
+795
+32
+0
+13
+474.162846578
+23
+795
+33
+0
+0
+MTEXT
+5
+80
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -3001,21 +4221,35 @@ CONTINUOUS
 100
 AcDbMText
 10
+<<<<<<< HEAD
 358.75
 20
 848.333333333
+=======
+438.75
+20
+826.25
+>>>>>>> parent of 7d640b4... Updated file
 30
 0
 40
 37.5
 41
+<<<<<<< HEAD
 91.6666666667
+=======
+87.5
+>>>>>>> parent of 7d640b4... Updated file
 71
 5
 72
 1
 1
+<<<<<<< HEAD
 40.0
+=======
+20.0
+>>>>>>> parent of 7d640b4... Updated file
 7
 standard
 210
@@ -3033,7 +4267,11 @@ standard
 0
 LINE
 5
+<<<<<<< HEAD
 82
+=======
+81
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -3047,17 +4285,29 @@ CONTINUOUS
 100
 AcDbLine
 10
+<<<<<<< HEAD
 202.499994944
 20
 750
 11
 402.5
+=======
+182.5
+20
+750
+11
+482.5
+>>>>>>> parent of 7d640b4... Updated file
 21
 750
 0
 LINE
 5
+<<<<<<< HEAD
 83
+=======
+82
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -3071,6 +4321,7 @@ CONTINUOUS
 100
 AcDbLine
 10
+<<<<<<< HEAD
 192.5
 20
 790
@@ -3084,6 +4335,21 @@ ENDBLK
 5C
 330
 5A
+=======
+172.5
+20
+770
+11
+482.5
+21
+770
+0
+ENDBLK
+5
+5B
+330
+59
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -3093,9 +4359,15 @@ AcDbBlockEnd
 0
 BLOCK
 5
+<<<<<<< HEAD
 5E
 330
 5D
+=======
+5D
+330
+5C
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -3103,6 +4375,7 @@ AcDbEntity
 100
 AcDbBlockBegin
 2
+<<<<<<< HEAD
 *D5
 70
 1
@@ -3142,6 +4415,23 @@ AcDbLine
 SOLID
 5
 85
+=======
+*D3
+70
+1
+10
+0
+20
+0
+3
+*D3
+1
+
+0
+SOLID
+5
+83
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -3155,6 +4445,7 @@ CONTINUOUS
 100
 AcDbTrace
 10
+<<<<<<< HEAD
 470
 20
 750
@@ -3286,11 +4577,315 @@ AcDbLine
 750
 11
 482.5
+=======
+-197.206002068
+20
+783.718572906
+30
+0
+11
+-219.968944274
+21
+794.862080153
+31
+0
+12
+-215.129733423
+22
+801.636975345
+32
+0
+13
+-215.129733423
+23
+801.636975345
+33
+0
+0
+LINE
+5
+84
+100
+AcDbEntity
+8
+Measurements
+6
+CONTINUOUS
+62
+7
+370
+0
+100
+AcDbLine
+10
+-185
+20
+775
+11
+-302.313242099
+21
+858.795172928
+0
+MTEXT
+5
+85
+100
+AcDbEntity
+8
+Measurements
+6
+CONTINUOUS
+62
+7
+370
+0
+100
+AcDbMText
+10
+-231.59592853
+20
+846.686043892
+30
+0
+40
+37.5
+41
+79.1666666667
+71
+5
+72
+1
+1
+15.0
+7
+standard
+210
+0
+220
+0
+230
+1
+50
+324.462322208
+73
+2
+44
+1
+0
+ENDBLK
+5
+5E
+330
+5C
+100
+AcDbEntity
+8
+0
+100
+AcDbBlockEnd
+0
+ENDSEC
+0
+SECTION
+2
+ENTITIES
+0
+LINE
+5
+86
+100
+AcDbEntity
+8
+Guidance lines
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+0
+20
+0
+11
+4.5924254968e-014
 21
 750
 0
 LINE
 5
+87
+100
+AcDbEntity
+8
+Guidance lines
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+-125
+20
+1.53080849893e-014
+11
+-125
+21
+750
+0
+LINE
+5
+88
+100
+AcDbEntity
+8
+Guidance lines
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+125
+20
+-3.06161699787e-014
+11
+125
+21
+750
+0
+LINE
+5
+89
+100
+AcDbEntity
+8
+Guidance lines
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+-200
+20
+2.44929359829e-014
+11
+-200
+21
+750
+0
+LINE
+5
+8A
+100
+AcDbEntity
+8
+Guidance lines
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+200
+20
+-4.89858719659e-014
+11
+200
+21
+750
+0
+LINE
+5
+8B
+100
+AcDbEntity
+8
+Guidance lines
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+-170
+20
+1.71450551881e-014
+11
+-170
+21
+750
+0
+LINE
+5
+8C
+100
+AcDbEntity
+8
+Guidance lines
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+170
+20
+-4.53119315685e-014
+11
+170
+21
+750
+0
+LINE
+5
+8D
+100
+AcDbEntity
+8
+Guidance lines
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+-75
+20
+3.06161699787e-015
+11
+-75
+>>>>>>> parent of 7d640b4... Updated file
+21
+750
+0
+LINE
+5
+<<<<<<< HEAD
 89
 100
 AcDbEntity
@@ -3318,10 +4913,66 @@ ENDBLK
 5F
 330
 5D
+=======
+8E
+100
+AcDbEntity
+8
+Guidance lines
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+75
+20
+-2.44929359829e-014
+11
+75
+21
+750
+0
+ARC
+5
+8F
 100
 AcDbEntity
 8
 0
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+-185
+20
+775
+40
+15
+100
+AcDbArc
+50
+90
+51
+180
+0
+LINE
+5
+90
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+0
+<<<<<<< HEAD
 100
 AcDbBlockEnd
 0
@@ -3330,10 +4981,33 @@ BLOCK
 61
 330
 60
+=======
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+-185
+20
+790
+11
+185
+21
+790
+0
+ARC
+5
+91
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
 0
+<<<<<<< HEAD
 100
 AcDbBlockBegin
 2
@@ -3572,6 +5246,35 @@ LINE
 AcDbEntity
 8
 Guidance lines
+=======
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+185
+20
+775
+40
+15
+100
+AcDbArc
+50
+0
+51
+90
+0
+LINE
+5
+92
+100
+AcDbEntity
+8
+0
 6
 ByLayer
 62
@@ -3581,6 +5284,156 @@ ByLayer
 100
 AcDbLine
 10
+200
+20
+755
+11
+200
+21
+775
+0
+LINE
+5
+93
+100
+AcDbEntity
+8
+0
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+-200
+20
+755
+11
+-200
+21
+775
+0
+ARC
+5
+94
+100
+AcDbEntity
+8
+0
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+-195
+20
+755
+40
+5
+100
+AcDbArc
+50
+180
+51
+270
+0
+LINE
+5
+95
+100
+AcDbEntity
+8
+Guidance lines
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+-200
+20
+2.44929359829e-014
+11
+200
+21
+-4.89858719659e-014
+0
+LINE
+5
+96
+100
+AcDbEntity
+8
+Guidance lines
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+-200
+20
+200
+11
+200
+21
+200
+0
+LINE
+5
+97
+100
+AcDbEntity
+8
+0
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+-195
+20
+750
+11
+-175
+21
+750
+0
+LINE
+5
+98
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+<<<<<<< HEAD
 0
 20
 0
@@ -3596,12 +5449,30 @@ LINE
 AcDbEntity
 8
 Guidance lines
+=======
+175
+20
+750
+11
+194.999994944
+21
+750
+0
+ARC
+5
+99
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
 256
 370
 -1
+<<<<<<< HEAD
 100
 AcDbLine
 10
@@ -3622,10 +5493,37 @@ AcDbEntity
 Guidance lines
 6
 ByLayer
+=======
+100
+AcDbCircle
+10
+195
+20
+755
+40
+5
+100
+AcDbArc
+50
+270.000057935
+51
+0
+0
+ARC
+5
+9A
+100
+AcDbEntity
+8
+0
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
 -1
+<<<<<<< HEAD
 100
 AcDbLine
 10
@@ -3646,6 +5544,32 @@ AcDbEntity
 Guidance lines
 6
 ByLayer
+=======
+100
+AcDbCircle
+10
+-175
+20
+755
+40
+5
+100
+AcDbArc
+50
+270
+51
+0
+0
+LINE
+5
+9B
+100
+AcDbEntity
+8
+0
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -3653,6 +5577,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 -200
 20
 2.44929359829e-014
@@ -3670,6 +5595,53 @@ AcDbEntity
 Guidance lines
 6
 ByLayer
+=======
+-170
+20
+755
+11
+-170
+21
+765
+0
+ARC
+5
+9C
+100
+AcDbEntity
+8
+0
+6
+CONTINUOUS
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+-165
+20
+765
+40
+5
+100
+AcDbArc
+50
+90
+51
+180
+0
+LINE
+5
+9D
+100
+AcDbEntity
+8
+0
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -3677,6 +5649,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 200
 20
 -4.89858719659e-014
@@ -3694,11 +5667,31 @@ AcDbEntity
 Guidance lines
 6
 ByLayer
+=======
+-165
+20
+770
+11
+165
+21
+770
+0
+ARC
+5
+9E
+100
+AcDbEntity
+8
+0
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
 -1
 100
+<<<<<<< HEAD
 AcDbLine
 10
 -170
@@ -3718,6 +5711,31 @@ AcDbEntity
 Guidance lines
 6
 ByLayer
+=======
+AcDbCircle
+10
+165
+20
+765
+40
+5
+100
+AcDbArc
+50
+0
+51
+90
+0
+LINE
+5
+9F
+100
+AcDbEntity
+8
+0
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -3727,6 +5745,7 @@ AcDbLine
 10
 170
 20
+<<<<<<< HEAD
 -4.53119315685e-014
 11
 170
@@ -3740,6 +5759,49 @@ LINE
 AcDbEntity
 8
 Guidance lines
+=======
+755
+11
+170
+21
+765
+0
+ARC
+5
+A0
+100
+AcDbEntity
+8
+0
+6
+CONTINUOUS
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+175
+20
+755
+40
+5
+100
+AcDbArc
+50
+180
+51
+270
+0
+LINE
+5
+A1
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -3749,6 +5811,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 -75
 20
 3.06161699787e-015
@@ -3764,12 +5827,30 @@ LINE
 AcDbEntity
 8
 Guidance lines
+=======
+-175
+20
+750
+11
+175
+21
+750
+0
+ARC
+5
+A2
+100
+AcDbEntity
+8
+Legs
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
 256
 370
 -1
+<<<<<<< HEAD
 100
 AcDbLine
 10
@@ -3842,6 +5923,8 @@ ByLayer
 256
 370
 -1
+=======
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbCircle
 10
@@ -3859,7 +5942,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 9C
+=======
+A3
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -3883,191 +5970,223 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 9D
-100
-AcDbEntity
-8
-Legs
-6
-ByLayer
-62
-256
-370
--1
-100
-AcDbCircle
-10
-15
-20
-5
-40
-5
-100
-AcDbArc
-50
-270
-51
-0
-0
-ARC
-5
-9E
-100
-AcDbEntity
-8
-Legs
-6
-ByLayer
-62
-256
-370
--1
-100
-AcDbCircle
-10
--15
-20
-1285
-40
-5
-100
-AcDbArc
-50
-90
-51
-180
-0
-LINE
-5
-9F
-100
-AcDbEntity
-8
-Legs
-6
-ByLayer
-62
-256
-370
--1
-100
-AcDbLine
-10
-15
-20
-1290
-11
--15
-21
-1290
-0
-ARC
-5
-A0
-100
-AcDbEntity
-8
-Legs
-6
-ByLayer
-62
-256
-370
--1
-100
-AcDbCircle
-10
-15
-20
-1285
-40
-5
-100
-AcDbArc
-50
-360
-51
-90
-0
-LINE
-5
-A1
-100
-AcDbEntity
-8
-Legs
-6
-ByLayer
-62
-256
-370
--1
-100
-AcDbLine
-10
-20
-20
-1167.46666667
-11
-20
-21
-1285
-0
-ARC
-5
-A2
-100
-AcDbEntity
-8
-Legs
-6
-ByLayer
-62
-256
-370
--1
-100
-AcDbCircle
-10
-15
-20
-1167.46666667
-40
-5
-100
-AcDbArc
-50
-270
-51
-360
-0
-LINE
-5
-A3
-100
-AcDbEntity
-8
-Legs
-6
-ByLayer
-62
-256
-370
--1
-100
-AcDbLine
-10
-15
-20
-1162.46666667
-11
--15
-21
-1162.46666667
-0
-LINE
-5
+=======
 A4
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+15
+20
+5
+40
+5
+100
+AcDbArc
+50
+270
+51
+0
+0
+ARC
+5
+<<<<<<< HEAD
+9E
+=======
+A5
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+-15
+20
+1285
+40
+5
+100
+AcDbArc
+50
+90
+51
+180
+0
+LINE
+5
+<<<<<<< HEAD
+9F
+=======
+A6
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+15
+20
+1290
+11
+-15
+21
+1290
+0
+ARC
+5
+<<<<<<< HEAD
+A0
+=======
+A7
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+15
+20
+1285
+40
+5
+100
+AcDbArc
+50
+360
+51
+90
+0
+LINE
+5
+<<<<<<< HEAD
+A1
+=======
+A8
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+20
+20
+1167.46666667
+11
+20
+21
+1285
+0
+ARC
+5
+<<<<<<< HEAD
+A2
+=======
+A9
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+15
+20
+1167.46666667
+40
+5
+100
+AcDbArc
+50
+270
+51
+360
+0
+LINE
+5
+<<<<<<< HEAD
+A3
+=======
+AA
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+15
+20
+1162.46666667
+11
+-15
+21
+1162.46666667
+0
+LINE
+5
+<<<<<<< HEAD
+A4
+=======
+AB
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4091,7 +6210,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 A5
+=======
+AC
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4119,7 +6242,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 A6
+=======
+AD
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4143,7 +6270,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 A7
+=======
+AE
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4171,7 +6302,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 A8
+=======
+AF
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4195,7 +6330,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 A9
+=======
+B0
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4223,7 +6362,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 AA
+=======
+B1
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4247,7 +6390,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 AB
+=======
+B2
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4275,7 +6422,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 AC
+=======
+B3
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4299,7 +6450,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 AD
+=======
+B4
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4323,7 +6478,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 AE
+=======
+B5
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4351,7 +6510,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 AF
+=======
+B6
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4375,7 +6538,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 B0
+=======
+B7
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4403,7 +6570,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 B1
+=======
+B8
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4427,7 +6598,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 B2
+=======
+B9
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4455,7 +6630,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 B3
+=======
+BA
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4479,7 +6658,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 B4
+=======
+BB
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4507,7 +6690,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 B5
+=======
+BC
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4529,9 +6716,39 @@ AcDbLine
 21
 1066.75704772
 0
+<<<<<<< HEAD
 ARC
 5
 B6
+=======
+LINE
+5
+BD
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+77.0881012798
+20
+1068.58717474
+11
+178.874953738
+21
+1009.82050808
+0
+ARC
+5
+BE
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4559,7 +6776,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 B7
+=======
+BF
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4581,9 +6802,95 @@ AcDbLine
 21
 1045.82050808
 0
+<<<<<<< HEAD
 LINE
 5
 B8
+=======
+ARC
+5
+C0
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+1.70530256582e-013
+20
+1122.4611206
+40
+127.538879399
+100
+AcDbArc
+50
+326.353220134
+51
+213.646779866
+0
+ARC
+5
+C1
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+1.70530256582e-013
+20
+1122.4611206
+40
+167.538879399
+100
+AcDbArc
+50
+327.224679693
+51
+212.775320307
+0
+LINE
+5
+C2
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+15
+20
+1260
+11
+-15
+21
+1260
+0
+LINE
+5
+C3
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4607,7 +6914,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 B9
+=======
+C4
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4631,7 +6942,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 BA
+=======
+C5
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4659,7 +6974,11 @@ AcDbArc
 0
 ARC
 5
+<<<<<<< HEAD
 BB
+=======
+C6
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4687,7 +7006,11 @@ AcDbArc
 0
 ARC
 5
+<<<<<<< HEAD
 BC
+=======
+C7
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4715,7 +7038,11 @@ AcDbArc
 0
 ARC
 5
+<<<<<<< HEAD
 BD
+=======
+C8
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4743,7 +7070,55 @@ AcDbArc
 0
 ARC
 5
+<<<<<<< HEAD
 BE
+=======
+C9
+>>>>>>> parent of 7d640b4... Updated file
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+<<<<<<< HEAD
+15
+=======
+-15
+>>>>>>> parent of 7d640b4... Updated file
+20
+1265
+40
+5
+100
+AcDbArc
+50
+<<<<<<< HEAD
+270
+51
+0
+0
+CIRCLE
+5
+BF
+100
+AcDbEntity
+8
+=======
+180
+51
+270
+0
+ARC
+5
+CA
 100
 AcDbEntity
 8
@@ -4771,10 +7146,11 @@ AcDbArc
 0
 CIRCLE
 5
-BF
+CB
 100
 AcDbEntity
 8
+>>>>>>> parent of 7d640b4... Updated file
 Guidance lines
 6
 ByLayer
@@ -4793,7 +7169,11 @@ AcDbCircle
 0
 CIRCLE
 5
+<<<<<<< HEAD
 C0
+=======
+CC
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4815,7 +7195,11 @@ AcDbCircle
 0
 LINE
 5
+<<<<<<< HEAD
 C1
+=======
+CD
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -4839,7 +7223,267 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 C2
+100
+AcDbEntity
+8
+Stand
+=======
+CE
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+<<<<<<< HEAD
+153.874953738
+20
+840.221083812
+40
+5
+100
+AcDbArc
+50
+269.932609831
+51
+0
+0
+LINE
+5
+C3
+100
+AcDbEntity
+8
+Stand
+=======
+-15
+20
+920
+40
+15
+100
+AcDbArc
+50
+90
+51
+180
+0
+LINE
+5
+CF
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+<<<<<<< HEAD
+133.869072838
+20
+835.244610888
+11
+153.869072838
+21
+835.22108727
+0
+ARC
+5
+C4
+100
+AcDbEntity
+8
+Stand
+=======
+-15
+20
+935
+11
+15
+21
+935
+0
+ARC
+5
+D0
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+<<<<<<< HEAD
+133.874953738
+20
+840.244607429
+40
+5
+100
+AcDbArc
+50
+180
+51
+269.932609831
+0
+LINE
+5
+C5
+100
+AcDbEntity
+8
+Stand
+=======
+15
+20
+920
+40
+15
+100
+AcDbArc
+50
+0
+51
+90
+0
+LINE
+5
+D1
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+<<<<<<< HEAD
+128.874953738
+20
+840.244607429
+11
+128.874953738
+21
+992.5
+0
+LINE
+5
+C6
+100
+AcDbEntity
+8
+Stand
+=======
+-15
+20
+950
+11
+15
+21
+950
+0
+ARC
+5
+D2
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
+6
+ByLayer
+62
+256
+370
+-1
+100
+<<<<<<< HEAD
+AcDbLine
+10
+158.874953738
+20
+840.221083812
+11
+158.874953738
+21
+975.179491924
+0
+LINE
+5
+C7
+100
+=======
+AcDbCircle
+10
+-15
+20
+920
+40
+30
+100
+AcDbArc
+50
+90
+51
+180
+0
+LINE
+5
+D3
+100
+AcDbEntity
+8
+0
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+45
+20
+917.083835342
+11
+45
+21
+920
+0
+ARC
+5
+D4
 100
 AcDbEntity
 8
@@ -4867,7 +7511,7 @@ AcDbArc
 0
 LINE
 5
-C3
+D5
 100
 AcDbEntity
 8
@@ -4891,7 +7535,7 @@ AcDbLine
 0
 ARC
 5
-C4
+D6
 100
 AcDbEntity
 8
@@ -4919,7 +7563,7 @@ AcDbArc
 0
 LINE
 5
-C5
+D7
 100
 AcDbEntity
 8
@@ -4943,7 +7587,7 @@ AcDbLine
 0
 LINE
 5
-C6
+D8
 100
 AcDbEntity
 8
@@ -4967,8 +7611,9 @@ AcDbLine
 0
 LINE
 5
-C7
+D9
 100
+>>>>>>> parent of 7d640b4... Updated file
 AcDbEntity
 8
 Stand
@@ -4991,7 +7636,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 C8
+=======
+DA
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5019,7 +7668,11 @@ AcDbArc
 0
 ARC
 5
+<<<<<<< HEAD
 C9
+=======
+DB
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5047,7 +7700,11 @@ AcDbArc
 0
 ARC
 5
+<<<<<<< HEAD
 CA
+=======
+DC
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5075,7 +7732,11 @@ AcDbArc
 0
 ARC
 5
+<<<<<<< HEAD
 CB
+=======
+DD
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5103,7 +7764,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 CC
+=======
+DE
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5127,7 +7792,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 CD
+=======
+DF
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5155,7 +7824,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 CE
+=======
+E0
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5179,7 +7852,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 CF
+=======
+E1
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5207,7 +7884,11 @@ AcDbArc
 0
 ARC
 5
+<<<<<<< HEAD
 D0
+=======
+E2
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5235,7 +7916,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 D1
+=======
+E3
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5259,7 +7944,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 D2
+=======
+E4
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5287,7 +7976,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 D3
+=======
+E5
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5311,7 +8004,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 D4
+=======
+E6
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5335,7 +8032,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 D5
+=======
+E7
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5359,7 +8060,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 D6
+=======
+E8
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5387,7 +8092,11 @@ AcDbArc
 0
 ARC
 5
+<<<<<<< HEAD
 D7
+=======
+E9
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5415,7 +8124,11 @@ AcDbArc
 0
 ARC
 5
+<<<<<<< HEAD
 D8
+=======
+EA
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5443,7 +8156,11 @@ AcDbArc
 0
 ARC
 5
+<<<<<<< HEAD
 D9
+=======
+EB
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5471,7 +8188,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 DA
+=======
+EC
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5495,7 +8216,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 DB
+=======
+ED
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5523,7 +8248,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 DC
+=======
+EE
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5547,7 +8276,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 DD
+=======
+EF
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5575,7 +8308,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 DE
+=======
+F0
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5599,7 +8336,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 DF
+=======
+F1
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5623,7 +8364,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 E0
+=======
+F2
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5647,7 +8392,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 E1
+=======
+F3
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5671,7 +8420,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 E2
+=======
+F4
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5695,7 +8448,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 E3
+=======
+F5
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5719,7 +8476,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 E4
+=======
+F6
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5743,7 +8504,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 E5
+=======
+F7
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5767,7 +8532,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 E6
+=======
+F8
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5791,7 +8560,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 E7
+=======
+F9
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5815,7 +8588,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 E8
+=======
+FA
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5839,7 +8616,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 E9
+=======
+FB
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5863,7 +8644,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 EA
+=======
+FC
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5887,7 +8672,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 EB
+=======
+FD
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5911,7 +8700,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 EC
+=======
+FE
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5935,7 +8728,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 ED
+=======
+FF
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5959,7 +8756,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 EE
+=======
+100
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -5987,7 +8788,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 EF
+=======
+101
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -6011,7 +8816,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 F0
+=======
+102
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -6039,7 +8848,11 @@ AcDbArc
 0
 ARC
 5
+<<<<<<< HEAD
 F1
+=======
+103
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -6067,7 +8880,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 F2
+=======
+104
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -6091,7 +8908,11 @@ AcDbLine
 0
 ARC
 5
+<<<<<<< HEAD
 F3
+=======
+105
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -6119,7 +8940,11 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 F4
+=======
+106
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -6143,7 +8968,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 F5
+=======
+107
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -6167,7 +8996,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 F6
+=======
+108
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -6191,7 +9024,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 F7
+=======
+109
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -6215,7 +9052,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 F8
+=======
+10A
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -6239,7 +9080,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 F9
+=======
+10B
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -6263,7 +9108,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 FA
+=======
+10C
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -6287,7 +9136,11 @@ AcDbLine
 0
 LINE
 5
+<<<<<<< HEAD
 FB
+=======
+10D
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -6303,6 +9156,7 @@ AcDbLine
 10
 -20
 20
+<<<<<<< HEAD
 200
 11
 -20
@@ -7802,6 +10656,21 @@ LINE
 AcDbEntity
 8
 Stand
+=======
+200
+11
+-20
+21
+230
+0
+LINE
+5
+10E
+100
+AcDbEntity
+8
+Legs
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -7811,6 +10680,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 408.874953738
 20
 164.859745441
@@ -7826,6 +10696,23 @@ ARC
 AcDbEntity
 8
 Stand
+=======
+111.172181197
+20
+230
+11
+114.295683116
+21
+230
+0
+LINE
+5
+10F
+100
+AcDbEntity
+8
+Legs
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -7833,6 +10720,7 @@ ByLayer
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 413.874953738
@@ -7854,6 +10742,25 @@ LINE
 AcDbEntity
 8
 Stand
+=======
+AcDbLine
+10
+111.172181197
+20
+200
+11
+117.612461663
+21
+200
+0
+LINE
+5
+110
+100
+AcDbEntity
+8
+Legs
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -7863,6 +10770,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 413.874953738
 20
 169.859745441
@@ -7878,6 +10786,23 @@ LINE
 AcDbEntity
 8
 Stand
+=======
+-117.612461663
+20
+200
+11
+-111.172181197
+21
+200
+0
+LINE
+5
+111
+100
+AcDbEntity
+8
+Legs
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -7887,6 +10812,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 483.874953738
 20
 164.859745441
@@ -7904,6 +10830,25 @@ AcDbEntity
 Stand
 6
 ByLayer
+=======
+-114.295683116
+20
+230
+11
+-111.172181197
+21
+230
+0
+ARC
+5
+112
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -7911,14 +10856,21 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 478.874953738
 20
 164.859745441
+=======
+-135.866666667
+20
+225
+>>>>>>> parent of 7d640b4... Updated file
 40
 5
 100
 AcDbArc
 50
+<<<<<<< HEAD
 360
 51
 90
@@ -7930,6 +10882,19 @@ LINE
 AcDbEntity
 8
 Stand
+=======
+90
+51
+180
+0
+LINE
+5
+113
+100
+AcDbEntity
+8
+Legs
+>>>>>>> parent of 7d640b4... Updated file
 6
 CONTINUOUS
 62
@@ -7939,6 +10904,7 @@ CONTINUOUS
 100
 AcDbLine
 10
+<<<<<<< HEAD
 426.194953738
 20
 169.859745441
@@ -7956,10 +10922,30 @@ AcDbEntity
 Stand
 6
 ByLayer
+=======
+-140.866666667
+20
+225
+11
+-140.866666667
+21
+205
+0
+ARC
+5
+114
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
 -1
+<<<<<<< HEAD
 100
 AcDbLine
 10
@@ -7980,6 +10966,32 @@ AcDbEntity
 Stand
 6
 ByLayer
+=======
+100
+AcDbCircle
+10
+-135.866666667
+20
+205
+40
+5
+100
+AcDbArc
+50
+180
+51
+270
+0
+ARC
+5
+115
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -7987,14 +10999,21 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 -153.874953738
 20
 164.892340699
+=======
+135.866666667
+20
+225
+>>>>>>> parent of 7d640b4... Updated file
 40
 5
 100
 AcDbArc
 50
+<<<<<<< HEAD
 90.0000149486
 51
 180
@@ -8008,6 +11027,21 @@ AcDbEntity
 Stand
 6
 ByLayer
+=======
+6.61555373744e-013
+51
+90
+0
+LINE
+5
+116
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -8015,6 +11049,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 -153.874952433
 20
 169.892340699
@@ -8032,6 +11067,53 @@ AcDbEntity
 Stand
 6
 ByLayer
+=======
+140.866666667
+20
+225
+11
+140.866666667
+21
+205
+0
+ARC
+5
+117
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+135.866666667
+20
+205
+40
+5
+100
+AcDbArc
+50
+270
+51
+0
+0
+LINE
+5
+118
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -8039,6 +11121,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 -128.874953738
 20
 164.892337496
@@ -8056,11 +11139,31 @@ AcDbEntity
 Stand
 6
 ByLayer
+=======
+114.295683116
+20
+230
+11
+135.866666667
+21
+230
+0
+LINE
+5
+119
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 -133.874953738
@@ -8082,6 +11185,25 @@ LINE
 AcDbEntity
 8
 Stand
+=======
+AcDbLine
+10
+117.612461663
+20
+200
+11
+135.866666667
+21
+200
+0
+LINE
+5
+11A
+100
+AcDbEntity
+8
+Legs
+>>>>>>> parent of 7d640b4... Updated file
 6
 CONTINUOUS
 62
@@ -8091,6 +11213,7 @@ CONTINUOUS
 100
 AcDbLine
 10
+<<<<<<< HEAD
 -153.874953738
 20
 144.892340699
@@ -8106,6 +11229,23 @@ LINE
 AcDbEntity
 8
 Stand
+=======
+-135.866666667
+20
+200
+11
+-117.612461663
+21
+200
+0
+LINE
+5
+11B
+100
+AcDbEntity
+8
+Legs
+>>>>>>> parent of 7d640b4... Updated file
 6
 CONTINUOUS
 62
@@ -8115,6 +11255,7 @@ CONTINUOUS
 100
 AcDbLine
 10
+<<<<<<< HEAD
 133.874953738
 20
 144.859745441
@@ -8132,6 +11273,25 @@ AcDbEntity
 Stand
 6
 CONTINUOUS
+=======
+-135.866666667
+20
+230
+11
+-114.295683116
+21
+230
+0
+ARC
+5
+11C
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -8139,14 +11299,21 @@ CONTINUOUS
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 -153.874953738
 20
 139.892340699
+=======
+-175.383293806
+20
+5
+>>>>>>> parent of 7d640b4... Updated file
 40
 5
 100
 AcDbArc
 50
+<<<<<<< HEAD
 90
 51
 180
@@ -8160,6 +11327,45 @@ AcDbEntity
 Stand
 6
 CONTINUOUS
+=======
+175.226720993
+51
+270
+0
+LINE
+5
+11D
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+-175.383293806
+20
+3.09927416083e-014
+11
+-144.201987792
+21
+2.5264828618e-014
+0
+ARC
+5
+11E
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -8167,14 +11373,21 @@ CONTINUOUS
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 -133.874953738
 20
 139.892340699
+=======
+-144.201987792
+20
+5
+>>>>>>> parent of 7d640b4... Updated file
 40
 5
 100
 AcDbArc
 50
+<<<<<<< HEAD
 0
 51
 90
@@ -8188,6 +11401,21 @@ AcDbEntity
 Stand
 6
 CONTINUOUS
+=======
+270
+51
+353.691041878
+0
+ARC
+5
+11F
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -8195,14 +11423,21 @@ CONTINUOUS
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 133.874953738
 20
 139.859745441
+=======
+144.201987792
+20
+5
+>>>>>>> parent of 7d640b4... Updated file
 40
 5
 100
 AcDbArc
 50
+<<<<<<< HEAD
 90
 51
 180
@@ -8216,6 +11451,45 @@ AcDbEntity
 Stand
 6
 CONTINUOUS
+=======
+186.308958122
+51
+270
+0
+LINE
+5
+120
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+175.383293806
+20
+-3.34420352066e-014
+11
+144.201987792
+21
+-2.77141222162e-014
+0
+ARC
+5
+121
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -8223,14 +11497,21 @@ CONTINUOUS
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 153.874953738
 20
 139.859745441
+=======
+175.383293806
+20
+5
+>>>>>>> parent of 7d640b4... Updated file
 40
 5
 100
 AcDbArc
 50
+<<<<<<< HEAD
 0
 51
 90
@@ -8242,6 +11523,18 @@ LINE
 AcDbEntity
 8
 Stand
+=======
+270
+51
+4.77327900702
+0
+LINE
+5
+122
+100
+AcDbEntity
+8
+Legs
 6
 ByLayer
 62
@@ -8251,6 +11544,107 @@ ByLayer
 100
 AcDbLine
 10
+-118.191178799
+20
+750
+11
+-180.365952684
+21
+5.41606550283
+0
+LINE
+5
+123
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+-56.8048549663
+20
+750
+11
+-139.23226886
+21
+4.45055142866
+0
+LINE
+5
+124
+100
+AcDbEntity
+8
+Legs
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+56.8048549663
+20
+750
+11
+139.23226886
+21
+4.45055142866
+0
+LINE
+5
+125
+100
+AcDbEntity
+8
+Legs
+>>>>>>> parent of 7d640b4... Updated file
+6
+ByLayer
+62
+256
+<<<<<<< HEAD
+=======
+370
+-1
+100
+AcDbLine
+10
+180.365952684
+20
+5.41606550283
+11
+118.191178799
+21
+750
+0
+LINE
+5
+126
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+62
+256
+>>>>>>> parent of 7d640b4... Updated file
+370
+-1
+100
+AcDbLine
+10
+<<<<<<< HEAD
 128.874953738
 20
 164.859743884
@@ -8268,11 +11662,31 @@ AcDbEntity
 Stand
 6
 ByLayer
+=======
+-20
+20
+750
+11
+-20
+21
+770
+0
+LINE
+5
+127
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 133.874953738
@@ -8296,6 +11710,27 @@ AcDbEntity
 Stand
 6
 ByLayer
+=======
+AcDbLine
+10
+20
+20
+750
+11
+20
+21
+770
+0
+LINE
+5
+128
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -8303,6 +11738,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 133.874955555
 20
 169.859745441
@@ -8320,6 +11756,25 @@ AcDbEntity
 Stand
 6
 ByLayer
+=======
+-20
+20
+770
+11
+20
+21
+770
+0
+LINE
+5
+129
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -8327,6 +11782,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 158.874953738
 20
 164.859742187
@@ -8344,11 +11800,31 @@ AcDbEntity
 Stand
 6
 ByLayer
+=======
+-116.521124665
+20
+770
+11
+-54.5936692682
+21
+770
+0
+LINE
+5
+12A
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 153.874953738
@@ -8372,11 +11848,33 @@ AcDbEntity
 0
 6
 ByLayer
+=======
+AcDbLine
+10
+54.5936692682
+20
+770
+11
+116.521124665
+21
+770
+0
+LINE
+5
+12B
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 49.875272362
@@ -8400,11 +11898,33 @@ AcDbEntity
 0
 6
 ByLayer
+=======
+AcDbLine
+10
+-116.521124665
+20
+770
+11
+-118.191178799
+21
+750
+0
+LINE
+5
+12C
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 15
@@ -8428,11 +11948,33 @@ AcDbEntity
 0
 6
 ByLayer
+=======
+AcDbLine
+10
+-54.5936692682
+20
+770
+11
+-56.8048549663
+21
+750
+0
+LINE
+5
+12D
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 15
@@ -8456,11 +11998,33 @@ AcDbEntity
 0
 6
 ByLayer
+=======
+AcDbLine
+10
+54.5936692682
+20
+770
+11
+56.8048549663
+21
+750
+0
+LINE
+5
+12E
+100
+AcDbEntity
+8
+Legs
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 54.9755198421
@@ -8482,6 +12046,25 @@ ARC
 AcDbEntity
 8
 0
+=======
+AcDbLine
+10
+118.191178799
+20
+750
+11
+116.521124665
+21
+770
+0
+ARC
+5
+12F
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -8491,6 +12074,7 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 -15
 20
 920
@@ -8510,6 +12094,27 @@ ARC
 AcDbEntity
 8
 0
+=======
+561.154953738
+20
+99.8597454413
+40
+5
+100
+AcDbArc
+50
+270
+51
+360
+0
+LINE
+5
+130
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -8517,6 +12122,7 @@ ByLayer
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 1.13686837722e-013
@@ -8538,6 +12144,25 @@ ARC
 AcDbEntity
 8
 0
+=======
+AcDbLine
+10
+566.154953738
+20
+164.859745441
+11
+566.154953738
+21
+99.8597454413
+0
+ARC
+5
+131
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -8547,14 +12172,21 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 -54.9755198421
 20
 918.600781163
+=======
+561.154953738
+20
+164.859745441
+>>>>>>> parent of 7d640b4... Updated file
 40
 5
 100
 AcDbArc
 50
+<<<<<<< HEAD
 252.216592906
 51
 2.0046423164
@@ -8566,6 +12198,19 @@ ARC
 AcDbEntity
 8
 0
+=======
+0
+51
+90
+0
+LINE
+5
+132
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -8573,6 +12218,7 @@ ByLayer
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 1.13686837722e-013
@@ -8594,6 +12240,25 @@ ARC
 AcDbEntity
 8
 0
+=======
+AcDbLine
+10
+556.154953738
+20
+169.859745441
+11
+561.154953738
+21
+169.859745441
+0
+ARC
+5
+133
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -8603,6 +12268,7 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 50
 20
 911.884868694
@@ -8624,6 +12290,53 @@ AcDbEntity
 0
 6
 DASHED2
+=======
+556.154953738
+20
+164.859745441
+40
+5
+100
+AcDbArc
+50
+90
+51
+180
+0
+LINE
+5
+134
+100
+AcDbEntity
+8
+Stand
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+551.154953738
+20
+164.859745441
+11
+551.154953738
+21
+149.859745441
+0
+ARC
+5
+135
+100
+AcDbEntity
+8
+Stand
+6
+ByLayer
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -8631,14 +12344,21 @@ DASHED2
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 -66.5998648351
 20
 939.038223368
+=======
+546.154953738
+20
+149.859745441
+>>>>>>> parent of 7d640b4... Updated file
 40
 5
 100
 AcDbArc
 50
+<<<<<<< HEAD
 246.194348442
 51
 339.748017719
@@ -8652,11 +12372,27 @@ AcDbEntity
 0
 6
 DASHED2
+=======
+270
+51
+0
+0
+LINE
+5
+136
+100
+AcDbEntity
+8
+Stand
+6
+ByLayer
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 1.13686837722e-013
@@ -8680,6 +12416,27 @@ AcDbEntity
 0
 6
 DASHED2
+=======
+AcDbLine
+10
+488.874953738
+20
+144.859745441
+11
+546.154953738
+21
+144.859745441
+0
+ARC
+5
+137
+100
+AcDbEntity
+8
+Stand
+6
+ByLayer
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -8687,14 +12444,21 @@ DASHED2
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 66.5998648351
 20
 939.038223368
+=======
+488.874953738
+20
+149.859745441
+>>>>>>> parent of 7d640b4... Updated file
 40
 5
 100
 AcDbArc
 50
+<<<<<<< HEAD
 200.251982281
 51
 293.805651558
@@ -8706,6 +12470,43 @@ ARC
 AcDbEntity
 8
 0
+=======
+180
+51
+270
+0
+LINE
+5
+138
+100
+AcDbEntity
+8
+Stand
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+413.874953738
+20
+94.8597454413
+11
+561.154953738
+21
+94.8597454413
+0
+ARC
+5
+139
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -8715,6 +12516,7 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 585
 20
 930
@@ -8730,6 +12532,23 @@ AcDbArc
 ARC
 5
 14F
+=======
+413.874953738
+20
+99.8597454413
+40
+5
+100
+AcDbArc
+50
+180
+51
+270
+0
+LINE
+5
+13A
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -8741,6 +12560,7 @@ ByLayer
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 615
@@ -8758,6 +12578,69 @@ AcDbArc
 LINE
 5
 150
+=======
+AcDbLine
+10
+-185
+20
+785
+11
+185
+21
+785
+0
+LINE
+5
+13B
+100
+AcDbEntity
+8
+0
+6
+CONTINUOUS
+62
+256
+370
+-1
+100
+AcDbLine
+10
+185
+20
+790
+11
+185
+21
+785
+0
+LINE
+5
+13C
+100
+AcDbEntity
+8
+0
+6
+CONTINUOUS
+62
+256
+370
+-1
+100
+AcDbLine
+10
+-185
+20
+790
+11
+-185
+21
+785
+0
+ARC
+5
+13D
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -8769,6 +12652,7 @@ ByLayer
 370
 -1
 100
+<<<<<<< HEAD
 AcDbLine
 10
 565
@@ -8782,6 +12666,25 @@ AcDbLine
 ARC
 5
 151
+=======
+AcDbCircle
+10
+600
+20
+1100
+40
+200
+100
+AcDbArc
+50
+282.153197469
+51
+257.846802531
+0
+ARC
+5
+13E
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -8795,14 +12698,21 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 550
 20
 921.884868694
+=======
+585
+20
+930
+>>>>>>> parent of 7d640b4... Updated file
 40
 15
 100
 AcDbArc
 50
+<<<<<<< HEAD
 254.319649865
 51
 0
@@ -8810,6 +12720,15 @@ AcDbArc
 LINE
 5
 152
+=======
+90
+51
+180
+0
+LINE
+5
+13F
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -8823,6 +12742,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 635
 20
 921.884868694
@@ -8834,6 +12754,19 @@ AcDbLine
 ARC
 5
 153
+=======
+585
+20
+945
+11
+615
+21
+945
+0
+ARC
+5
+140
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -8847,6 +12780,7 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 650
 20
 921.884868694
@@ -8862,6 +12796,47 @@ AcDbArc
 ARC
 5
 154
+=======
+615
+20
+930
+40
+15
+100
+AcDbArc
+50
+0
+51
+90
+0
+LINE
+5
+141
+100
+AcDbEntity
+8
+0
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+570
+20
+914.25824379
+11
+570
+21
+930
+0
+ARC
+5
+142
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
@@ -8875,6 +12850,7 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 600
 20
 1100
@@ -8894,6 +12870,26 @@ DIMENSION
 AcDbEntity
 8
 Measurements
+=======
+560
+20
+914.25824379
+40
+10
+100
+AcDbArc
+50
+257.846802531
+51
+0
+0
+LINE
+5
+143
+100
+AcDbEntity
+8
+0
 6
 ByLayer
 62
@@ -8901,6 +12897,32 @@ ByLayer
 370
 -1
 100
+AcDbLine
+10
+630
+20
+914.25824379
+11
+630
+21
+930
+0
+ARC
+5
+144
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
+6
+ByLayer
+62
+256
+370
+-1
+100
+<<<<<<< HEAD
 AcDbDimension
 2
 *D8
@@ -8929,10 +12951,51 @@ Standard
 210
 0
 220
-0
-230
-1
+=======
+AcDbCircle
+10
+640
+20
+914.25824379
+40
+10
 100
+AcDbArc
+50
+180
+51
+282.153197469
+0
+LINE
+5
+145
+100
+AcDbEntity
+8
+0
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+600
+20
+1100
+11
+741.421356237
+21
+958.578643763
+>>>>>>> parent of 7d640b4... Updated file
+0
+LINE
+5
+146
+100
+<<<<<<< HEAD
 AcDbAlignedDimension
 13
 -140.866666667
@@ -8945,8 +13008,19 @@ AcDbAlignedDimension
 24
 230
 34
+=======
+AcDbEntity
+8
+>>>>>>> parent of 7d640b4... Updated file
 0
+6
+ByLayer
+62
+256
+370
+-1
 100
+<<<<<<< HEAD
 AcDbRotatedDimension
 0
 LINE
@@ -8956,6 +13030,24 @@ LINE
 AcDbEntity
 8
 Legs
+=======
+AcDbLine
+10
+600
+20
+1100
+11
+800
+21
+1100
+0
+LINE
+5
+147
+100
+AcDbEntity
+8
+0
 6
 ByLayer
 62
@@ -8965,6 +13057,32 @@ ByLayer
 100
 AcDbLine
 10
+600
+20
+1100
+11
+741.421356237
+21
+1241.42135624
+0
+LINE
+5
+148
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+<<<<<<< HEAD
 15
 20
 1260
@@ -8980,6 +13098,23 @@ ARC
 AcDbEntity
 8
 Legs
+=======
+600
+20
+1100
+11
+600
+21
+1300
+0
+LINE
+5
+149
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -8987,6 +13122,7 @@ ByLayer
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 -15
@@ -9008,12 +13144,32 @@ LINE
 AcDbEntity
 8
 Leg resting plane
+=======
+AcDbLine
+10
+600
+20
+1100
+11
+458.578643763
+21
+1241.42135624
+0
+LINE
+5
+14A
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
 256
 370
 -1
+<<<<<<< HEAD
 100
 AcDbLine
 10
@@ -9060,12 +13216,33 @@ ARC
 AcDbEntity
 8
 Leg resting plane
+=======
+100
+AcDbLine
+10
+600
+20
+1100
+11
+400
+21
+1100
+0
+LINE
+5
+14B
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
 256
 370
 -1
+<<<<<<< HEAD
 100
 AcDbCircle
 10
@@ -9116,6 +13293,26 @@ LINE
 AcDbEntity
 8
 Leg resting plane
+=======
+100
+AcDbLine
+10
+600
+20
+1100
+11
+458.578643763
+21
+958.578643763
+0
+LINE
+5
+14C
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9125,6 +13322,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 -73.1502791063
 20
 1070.08717474
@@ -9140,6 +13338,23 @@ ARC
 AcDbEntity
 8
 Leg resting plane
+=======
+600
+20
+1100
+11
+600
+21
+945
+0
+LINE
+5
+14D
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9147,6 +13362,7 @@ ByLayer
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 73.1502791063
@@ -9168,6 +13384,25 @@ LINE
 AcDbEntity
 8
 Legs
+=======
+AcDbLine
+10
+-30
+20
+910.556415551
+11
+-30
+21
+920
+0
+ARC
+5
+14E
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9175,6 +13410,7 @@ ByLayer
 370
 -1
 100
+<<<<<<< HEAD
 AcDbLine
 10
 77.0881012798
@@ -9192,6 +13428,29 @@ LINE
 AcDbEntity
 8
 Leg resting plane
+=======
+AcDbCircle
+10
+-45
+20
+910.556415551
+40
+15
+100
+AcDbArc
+50
+255.921961396
+51
+0
+0
+LINE
+5
+14F
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9201,6 +13460,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 20
 20
 1265
@@ -9216,6 +13476,23 @@ ARC
 AcDbEntity
 8
 Leg resting plane
+=======
+30
+20
+910.556415551
+11
+30
+21
+920
+0
+ARC
+5
+150
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9225,6 +13502,7 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 25
 20
 1283.36706185
@@ -9244,6 +13522,55 @@ LINE
 AcDbEntity
 8
 Leg resting plane
+=======
+1.13686837722e-013
+20
+1090
+40
+200
+100
+AcDbArc
+50
+284.078038604
+51
+255.921961396
+0
+ARC
+5
+151
+100
+AcDbEntity
+8
+0
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+45
+20
+910.556415551
+40
+15
+100
+AcDbArc
+50
+180
+51
+284.078038604
+0
+LINE
+5
+152
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9253,6 +13580,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 -20
 20
 1265
@@ -9268,6 +13596,23 @@ ARC
 AcDbEntity
 8
 Leg resting plane
+=======
+-45
+20
+917.083835342
+11
+-45
+21
+920
+0
+ARC
+5
+153
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9277,14 +13622,21 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 -25
 20
 1283.36706185
+=======
+-50
+20
+917.083835342
+>>>>>>> parent of 7d640b4... Updated file
 40
 5
 100
 AcDbArc
 50
+<<<<<<< HEAD
 0
 51
 97.4742199312
@@ -9296,6 +13648,19 @@ LINE
 AcDbEntity
 8
 Leg resting plane
+=======
+253.872379787
+51
+0
+0
+ARC
+5
+154
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9303,6 +13668,7 @@ ByLayer
 370
 -1
 100
+<<<<<<< HEAD
 AcDbLine
 10
 75.6502791061
@@ -9320,6 +13686,29 @@ ARC
 AcDbEntity
 8
 Leg resting plane
+=======
+AcDbCircle
+10
+1.13686837722e-013
+20
+1090
+40
+185
+100
+AcDbArc
+50
+286.08629601
+51
+253.872379787
+0
+ARC
+5
+155
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9329,6 +13718,7 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 0
 20
 1092.81069822
@@ -9348,6 +13738,27 @@ ARC
 AcDbEntity
 8
 Leg resting plane
+=======
+15
+20
+920
+40
+30
+100
+AcDbArc
+50
+355.161463582
+51
+90
+0
+ARC
+5
+156
+100
+AcDbEntity
+8
+0
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9357,14 +13768,21 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 176.572472251
 20
 1016.92334908
+=======
+49.875272362
+20
+917.04781815
+>>>>>>> parent of 7d640b4... Updated file
 40
 5
 100
 AcDbArc
 50
+<<<<<<< HEAD
 240.000000003
 51
 336.742925357
@@ -9378,6 +13796,49 @@ AcDbEntity
 Leg resting plane
 6
 ByLayer
+=======
+175.161463582
+51
+286.08629601
+0
+ARC
+5
+157
+100
+AcDbEntity
+8
+0
+6
+DASHED
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+1.13686837722e-013
+20
+1090
+40
+170
+100
+AcDbArc
+50
+292.067250611
+51
+247.932749389
+0
+LINE
+5
+158
+100
+AcDbEntity
+8
+0
+6
+DASHED
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -9385,6 +13846,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 -75.6502791061
 20
 1069.41730176
@@ -9402,6 +13864,25 @@ AcDbEntity
 Leg resting plane
 6
 ByLayer
+=======
+-15
+20
+965
+11
+15
+21
+965
+0
+ARC
+5
+159
+100
+AcDbEntity
+8
+0
+6
+DASHED
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -9409,6 +13890,7 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 0
 20
 1092.81069822
@@ -9430,6 +13912,29 @@ AcDbEntity
 Leg resting plane
 6
 ByLayer
+=======
+-15
+20
+920
+40
+45
+100
+AcDbArc
+50
+90
+51
+160.016691723
+0
+ARC
+5
+15A
+100
+AcDbEntity
+8
+0
+6
+DASHED
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -9437,14 +13942,21 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 -176.572472251
 20
 1016.92334908
+=======
+-61.9896110054
+20
+937.087318618
+>>>>>>> parent of 7d640b4... Updated file
 40
 5
 100
 AcDbArc
 50
+<<<<<<< HEAD
 203.257074643
 51
 299.999999997
@@ -9452,12 +13964,25 @@ AcDbArc
 ARC
 5
 169
+=======
+247.932749389
+51
+340.016691723
+0
+ARC
+5
+15B
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
 0
 6
+<<<<<<< HEAD
 ByLayer
+=======
+DASHED
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -9465,6 +13990,7 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 -185
 20
 775
@@ -9480,12 +14006,33 @@ AcDbArc
 ARC
 5
 16A
+=======
+15
+20
+920
+40
+45
+100
+AcDbArc
+50
+19.9833082765
+51
+90
+0
+ARC
+5
+15C
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbEntity
 8
 0
 6
+<<<<<<< HEAD
 ByLayer
+=======
+DASHED
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -9493,14 +14040,21 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 -195
 20
 755
+=======
+61.9896110054
+20
+937.087318618
+>>>>>>> parent of 7d640b4... Updated file
 40
 5
 100
 AcDbArc
 50
+<<<<<<< HEAD
 180
 51
 270
@@ -9540,6 +14094,19 @@ ARC
 AcDbEntity
 8
 0
+=======
+199.983308277
+51
+292.067250611
+0
+DIMENSION
+5
+15D
+100
+AcDbEntity
+8
+Measurements
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9547,14 +14114,46 @@ ByLayer
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 -175
 20
 755
 40
+=======
+AcDbDimension
+2
+*D1
+10
+-600
+20
+790
+30
+0
+11
+-631.25
+21
+395
+31
+0
+70
+32
+71
+>>>>>>> parent of 7d640b4... Updated file
 5
+3
+Standard
+53
+0
+210
+0
+220
+0
+230
+1
 100
+<<<<<<< HEAD
 AcDbArc
 50
 270
@@ -9596,6 +14195,32 @@ ARC
 AcDbEntity
 8
 0
+=======
+AcDbAlignedDimension
+13
+-175.383293806
+23
+0
+33
+0
+14
+-185
+24
+790
+34
+0
+50
+90
+100
+AcDbRotatedDimension
+0
+DIMENSION
+5
+15E
+100
+AcDbEntity
+8
+Measurements
 6
 ByLayer
 62
@@ -9603,14 +14228,107 @@ ByLayer
 370
 -1
 100
+AcDbDimension
+2
+*D2
+10
+200
+20
+1400
+30
+0
+11
+1.91344742785e-015
+21
+1431.25
+31
+0
+70
+32
+71
+5
+3
+Standard
+53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+13
+-200
+23
+1090
+33
+0
+14
+200
+24
+1090
+34
+0
+100
+AcDbRotatedDimension
+0
+DIMENSION
+5
+15F
+100
+AcDbEntity
+8
+Measurements
+>>>>>>> parent of 7d640b4... Updated file
+6
+ByLayer
+62
+256
+370
+-1
+100
+<<<<<<< HEAD
 AcDbCircle
 10
 165
 20
 765
 40
+=======
+AcDbDimension
+2
+*D3
+10
+-185
+20
+775
+30
+0
+11
+-231.59592853
+21
+846.686043892
+31
+0
+70
+36
+71
+>>>>>>> parent of 7d640b4... Updated file
 5
+3
+Standard
+53
+0
+210
+0
+220
+0
+230
+1
 100
+<<<<<<< HEAD
 AcDbArc
 50
 0
@@ -9624,6 +14342,25 @@ ARC
 AcDbEntity
 8
 0
+=======
+AcDbRadialDimension
+15
+-197.206002068
+25
+783.718572906
+35
+0
+40
+0
+0
+DIMENSION
+5
+160
+100
+AcDbEntity
+8
+Measurements
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9631,6 +14368,7 @@ ByLayer
 370
 -1
 100
+<<<<<<< HEAD
 AcDbCircle
 10
 175
@@ -9676,6 +14414,63 @@ LINE
 AcDbEntity
 8
 0
+=======
+AcDbDimension
+2
+*D4
+10
+390
+20
+790
+30
+0
+11
+358.75
+21
+770
+31
+0
+70
+32
+71
+5
+3
+Standard
+53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+13
+194.999994944
+23
+750
+33
+0
+14
+185
+24
+790
+34
+0
+50
+90
+100
+AcDbRotatedDimension
+0
+DIMENSION
+5
+161
+100
+AcDbEntity
+8
+Measurements
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9683,6 +14478,7 @@ ByLayer
 370
 -1
 100
+<<<<<<< HEAD
 AcDbLine
 10
 -116.521124665
@@ -9700,6 +14496,63 @@ LINE
 AcDbEntity
 8
 0
+=======
+AcDbDimension
+2
+*D5
+10
+470
+20
+770
+30
+0
+11
+438.75
+21
+760
+31
+0
+70
+32
+71
+5
+3
+Standard
+53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+13
+175
+23
+750
+33
+0
+14
+165
+24
+770
+34
+0
+50
+90
+100
+AcDbRotatedDimension
+0
+DIMENSION
+5
+162
+100
+AcDbEntity
+8
+Measurements
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9707,6 +14560,7 @@ ByLayer
 370
 -1
 100
+<<<<<<< HEAD
 AcDbLine
 10
 54.5936692682
@@ -9724,6 +14578,63 @@ LINE
 AcDbEntity
 8
 0
+=======
+AcDbDimension
+2
+*D6
+10
+310
+20
+790
+30
+0
+11
+278.75
+21
+787.5
+31
+0
+70
+32
+71
+5
+3
+Standard
+53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+13
+185
+23
+785
+33
+0
+14
+185
+24
+790
+34
+0
+50
+90
+100
+AcDbRotatedDimension
+0
+DIMENSION
+5
+163
+100
+AcDbEntity
+8
+Measurements
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9731,6 +14642,7 @@ ByLayer
 370
 -1
 100
+<<<<<<< HEAD
 AcDbLine
 10
 -15
@@ -9748,6 +14660,70 @@ LINE
 AcDbEntity
 8
 0
+=======
+AcDbDimension
+2
+*D7
+10
+20
+20
+1285
+30
+0
+11
+0
+21
+0
+31
+0
+70
+34
+71
+5
+3
+Standard
+53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDb2LineAngularDimension
+13
+77.0881012798
+23
+1068.58717474
+33
+0
+14
+178.874953738
+24
+1009.82050808
+34
+0
+15
+20
+25
+1167.46666667
+35
+0
+16
+200
+26
+1200
+36
+0
+0
+LINE
+5
+164
+100
+AcDbEntity
+8
+Stand
 6
 ByLayer
 62
@@ -9755,6 +14731,32 @@ ByLayer
 370
 -1
 100
+AcDbLine
+10
+408.874953738
+20
+164.859745441
+11
+408.874953738
+21
+99.8597454413
+0
+ARC
+5
+165
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
+6
+ByLayer
+62
+256
+370
+-1
+100
+<<<<<<< HEAD
 AcDbLine
 10
 35
@@ -9772,6 +14774,29 @@ LINE
 AcDbEntity
 8
 0
+=======
+AcDbCircle
+10
+413.874953738
+20
+164.859745441
+40
+5
+100
+AcDbArc
+50
+90
+51
+180
+0
+LINE
+5
+166
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9781,6 +14806,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 15
 20
 955
@@ -9796,6 +14822,23 @@ LINE
 AcDbEntity
 8
 0
+=======
+413.874953738
+20
+169.859745441
+11
+478.874953738
+21
+169.859745441
+0
+LINE
+5
+167
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9805,6 +14848,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 -185
 20
 790
@@ -9820,12 +14864,30 @@ LINE
 AcDbEntity
 8
 0
+=======
+483.874953738
+20
+164.859745441
+11
+483.874953738
+21
+149.859745441
+0
+ARC
+5
+168
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
 256
 370
 -1
+<<<<<<< HEAD
 100
 AcDbLine
 10
@@ -9846,6 +14908,32 @@ AcDbEntity
 0
 6
 ByLayer
+=======
+100
+AcDbCircle
+10
+478.874953738
+20
+164.859745441
+40
+5
+100
+AcDbArc
+50
+360
+51
+90
+0
+LINE
+5
+169
+100
+AcDbEntity
+8
+Stand
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -9853,6 +14941,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 170
 20
 755
@@ -9892,6 +14981,23 @@ LINE
 AcDbEntity
 8
 0
+=======
+426.194953738
+20
+169.859745441
+11
+426.194953738
+21
+94.8597454413
+0
+LINE
+5
+16A
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9901,6 +15007,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 -170
 20
 765
@@ -9916,12 +15023,30 @@ LINE
 AcDbEntity
 8
 0
+=======
+-158.874953738
+20
+164.892336729
+11
+-158.874953738
+21
+99.8923406994
+0
+ARC
+5
+16B
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
 256
 370
 -1
+<<<<<<< HEAD
 100
 AcDbLine
 10
@@ -9940,6 +15065,30 @@ LINE
 AcDbEntity
 8
 0
+=======
+100
+AcDbCircle
+10
+-153.874953738
+20
+164.892340699
+40
+5
+100
+AcDbArc
+50
+90.0000149486
+51
+180
+0
+LINE
+5
+16C
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -9949,6 +15098,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 -200
 20
 755
@@ -9966,10 +15116,30 @@ AcDbEntity
 0
 6
 DASHED2
+=======
+-153.874952433
+20
+169.892340699
+11
+-133.874954319
+21
+169.892340699
+0
+LINE
+5
+16D
+100
+AcDbEntity
+8
+Stand
+6
+ByLayer
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
 -1
+<<<<<<< HEAD
 100
 AcDbCircle
 10
@@ -9994,11 +15164,62 @@ AcDbEntity
 0
 6
 DASHED2
+=======
+100
+AcDbLine
+10
+-128.874953738
+20
+164.892337496
+11
+-128.874953738
+21
+99.8923406994
+0
+ARC
+5
+16E
+100
+AcDbEntity
+8
+Stand
+6
+ByLayer
 62
 256
 370
 -1
 100
+AcDbCircle
+10
+-133.874953738
+20
+164.892340699
+40
+5
+100
+AcDbArc
+50
+3.67055155857e-005
+51
+90.0000066572
+0
+LINE
+5
+16F
+100
+AcDbEntity
+8
+Stand
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
+62
+256
+370
+-1
+100
+<<<<<<< HEAD
 AcDbCircle
 10
 15
@@ -10022,11 +15243,113 @@ AcDbEntity
 0
 6
 ByLayer
+=======
+AcDbLine
+10
+-153.874953738
+20
+144.892340699
+11
+-133.874953738
+21
+144.892340699
+0
+LINE
+5
+170
+100
+AcDbEntity
+8
+Stand
+6
+CONTINUOUS
 62
 256
 370
 -1
 100
+AcDbLine
+10
+133.874953738
+20
+144.859745441
+11
+153.874953738
+21
+144.859745441
+0
+ARC
+5
+171
+100
+AcDbEntity
+8
+Stand
+6
+CONTINUOUS
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+-153.874953738
+20
+139.892340699
+40
+5
+100
+AcDbArc
+50
+90
+51
+180
+0
+ARC
+5
+172
+100
+AcDbEntity
+8
+Stand
+6
+CONTINUOUS
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+-133.874953738
+20
+139.892340699
+40
+5
+100
+AcDbArc
+50
+0
+51
+90
+0
+ARC
+5
+173
+100
+AcDbEntity
+8
+Stand
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
+62
+256
+370
+-1
+100
+<<<<<<< HEAD
 AcDbLine
 10
 -15
@@ -10046,6 +15369,31 @@ AcDbEntity
 0
 6
 ByLayer
+=======
+AcDbCircle
+10
+133.874953738
+20
+139.859745441
+40
+5
+100
+AcDbArc
+50
+90
+51
+180
+0
+ARC
+5
+174
+100
+AcDbEntity
+8
+Stand
+6
+CONTINUOUS
+>>>>>>> parent of 7d640b4... Updated file
 62
 256
 370
@@ -10053,11 +15401,19 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 185
 20
 775
 40
 15
+=======
+153.874953738
+20
+139.859745441
+40
+5
+>>>>>>> parent of 7d640b4... Updated file
 100
 AcDbArc
 50
@@ -10067,11 +15423,19 @@ AcDbArc
 0
 LINE
 5
+<<<<<<< HEAD
 181
 100
 AcDbEntity
 8
 0
+=======
+175
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -10081,6 +15445,7 @@ ByLayer
 100
 AcDbLine
 10
+<<<<<<< HEAD
 200
 20
 775
@@ -10096,6 +15461,23 @@ ARC
 AcDbEntity
 8
 0
+=======
+128.874953738
+20
+164.859743884
+11
+128.874953738
+21
+99.8597454413
+0
+ARC
+5
+176
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
 6
 ByLayer
 62
@@ -10105,6 +15487,7 @@ ByLayer
 100
 AcDbCircle
 10
+<<<<<<< HEAD
 -50
 20
 911.884868694
@@ -10152,6 +15535,26 @@ LINE
 AcDbEntity
 8
 0
+=======
+133.874953738
+20
+164.859745441
+40
+5
+100
+AcDbArc
+50
+90.0000208181
+51
+180.000017844
+0
+LINE
+5
+177
+100
+AcDbEntity
+8
+Stand
 6
 ByLayer
 62
@@ -10161,6 +15564,32 @@ ByLayer
 100
 AcDbLine
 10
+133.874955555
+20
+169.859745441
+11
+153.874953738
+21
+169.859745441
+0
+LINE
+5
+178
+100
+AcDbEntity
+8
+Stand
+>>>>>>> parent of 7d640b4... Updated file
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbLine
+10
+<<<<<<< HEAD
 -35
 20
 911.884875249
@@ -10168,6 +15597,43 @@ AcDbLine
 -35
 21
 919.999990368
+=======
+158.874953738
+20
+164.859742187
+11
+158.874953738
+21
+99.8597454413
+0
+ARC
+5
+179
+100
+AcDbEntity
+8
+Stand
+6
+ByLayer
+62
+256
+370
+-1
+100
+AcDbCircle
+10
+153.874953738
+20
+164.859745441
+40
+5
+100
+AcDbArc
+50
+3.72824482158e-005
+51
+90
+>>>>>>> parent of 7d640b4... Updated file
 0
 ENDSEC
 0
