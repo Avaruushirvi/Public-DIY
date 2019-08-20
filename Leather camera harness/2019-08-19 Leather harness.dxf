@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
-444.0610211993352
+0
  20
-357.5317306096211
+0
  30
 0
   9
 $EXTMAX
  10
-718.2360294218975
+2560
  20
-1118.055340925834
+1280
  30
 0
   9
@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-Vectors - back straps
+Vectors - armpit strap
   9
 $CELTYPE
   6
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-358.0991137496623
+1166.462513199634
  22
-412.3008780165429
+669.0601900739498
  13
 0
  23
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-212.0299524202721
+1559.788806758259
  41
 1.675909878682842
  42
@@ -2255,6 +2255,28 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
+Vectors - armpit strap
+ 70
+    0
+ 62
+    3
+  6
+CONTINUOUS
+370
+  200
+390
+F
+  0
+LAYER
+  5
+4B
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
 Vectors - back center
  70
     0
@@ -2269,7 +2291,7 @@ F
   0
 LAYER
   5
-4B
+4C
 330
 2
 100
@@ -2305,7 +2327,7 @@ AcDbSymbolTable
   0
 STYLE
   5
-4C
+4D
 330
 2
 100
@@ -2389,7 +2411,7 @@ ACAD
   0
 APPID
   5
-4D
+4E
 330
 9
 100
@@ -2421,7 +2443,7 @@ AcDbDimStyleTable
   0
 DIMSTYLE
 105
-4E
+4F
 330
 A
 100
@@ -2695,7 +2717,7 @@ ENTITIES
   0
 IMAGE
   5
-51
+52
 100
 AcDbEntity
   8
@@ -2731,7 +2753,7 @@ AcDbRasterImage
  23
 1280
 340
-4F
+50
  70
     1
 280
@@ -2743,11 +2765,63 @@ AcDbRasterImage
 283
     0
 360
-50
+51
+  0
+IMAGE
+  5
+55
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbRasterImage
+ 10
+1280
+ 20
+0
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 12
+6.123031769111886e-017
+ 22
+1
+ 32
+0
+ 13
+1280
+ 23
+1280
+340
+53
+ 70
+    1
+280
+    0
+281
+   50
+282
+   50
+283
+    0
+360
+54
   0
 ARC
   5
-52
+56
 100
 AcDbEntity
   8
@@ -2775,7 +2849,7 @@ AcDbArc
   0
 ARC
   5
-53
+57
 100
 AcDbEntity
   8
@@ -2803,7 +2877,7 @@ AcDbArc
   0
 ARC
   5
-54
+58
 100
 AcDbEntity
   8
@@ -2831,7 +2905,7 @@ AcDbArc
   0
 ARC
   5
-55
+59
 100
 AcDbEntity
   8
@@ -2859,7 +2933,7 @@ AcDbArc
   0
 ARC
   5
-56
+5A
 100
 AcDbEntity
   8
@@ -2887,7 +2961,7 @@ AcDbArc
   0
 ARC
   5
-57
+5B
 100
 AcDbEntity
   8
@@ -2915,7 +2989,7 @@ AcDbArc
   0
 ARC
   5
-58
+5C
 100
 AcDbEntity
   8
@@ -2943,7 +3017,7 @@ AcDbArc
   0
 ARC
   5
-59
+5D
 100
 AcDbEntity
   8
@@ -2971,7 +3045,7 @@ AcDbArc
   0
 ARC
   5
-5A
+5E
 100
 AcDbEntity
   8
@@ -2999,7 +3073,7 @@ AcDbArc
   0
 ARC
   5
-5B
+5F
 100
 AcDbEntity
   8
@@ -3027,7 +3101,7 @@ AcDbArc
   0
 ARC
   5
-5C
+60
 100
 AcDbEntity
   8
@@ -3051,11 +3125,11 @@ AcDbArc
  50
 321.8466074746066
  51
-494.9999999999999
+494.9999999999998
   0
 ARC
   5
-5D
+61
 100
 AcDbEntity
   8
@@ -3083,7 +3157,7 @@ AcDbArc
   0
 CIRCLE
   5
-5E
+62
 100
 AcDbEntity
   8
@@ -3105,7 +3179,7 @@ AcDbCircle
   0
 CIRCLE
   5
-5F
+63
 100
 AcDbEntity
   8
@@ -3127,7 +3201,7 @@ AcDbCircle
   0
 CIRCLE
   5
-60
+64
 100
 AcDbEntity
   8
@@ -3149,7 +3223,7 @@ AcDbCircle
   0
 CIRCLE
   5
-61
+65
 100
 AcDbEntity
   8
@@ -3171,104 +3245,6 @@ AcDbCircle
   0
 LINE
   5
-62
-100
-AcDbEntity
-  8
-Vectors - back straps
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-634.7236203117502
- 20
-630.0317306096211
- 11
-634.7236203117502
- 21
-380.0317306096211
-  0
-LINE
-  5
-63
-100
-AcDbEntity
-  8
-Vectors - back straps
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-679.7236203117502
- 20
-630.0317306096211
- 11
-679.7236203117502
- 21
-380.0317306096211
-  0
-ARC
-  5
-64
-100
-AcDbEntity
-  8
-Vectors - back straps
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-657.2236203117502
- 20
-630.0317306096211
- 40
-22.5
-100
-AcDbArc
- 50
-0
- 51
-180
-  0
-CIRCLE
-  5
-65
-100
-AcDbEntity
-  8
-Vectors - back straps
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-657.2236203117502
- 20
-630.0317306096211
- 40
-2
-  0
-ARC
-  5
 66
 100
 AcDbEntity
@@ -3281,19 +3257,15 @@ ByLayer
 370
    -1
 100
-AcDbCircle
+AcDbLine
  10
-657.2236203117502
+634.7236203117502
  20
+630.0317306096211
+ 11
+634.7236203117502
+ 21
 380.0317306096211
- 40
-22.5
-100
-AcDbArc
- 50
-180
- 51
-0
   0
 LINE
   5
@@ -3311,6 +3283,108 @@ ByLayer
 100
 AcDbLine
  10
+679.7236203117502
+ 20
+630.0317306096211
+ 11
+679.7236203117502
+ 21
+380.0317306096211
+  0
+ARC
+  5
+68
+100
+AcDbEntity
+  8
+Vectors - back straps
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+657.2236203117502
+ 20
+630.0317306096211
+ 40
+22.5
+100
+AcDbArc
+ 50
+0
+ 51
+180
+  0
+CIRCLE
+  5
+69
+100
+AcDbEntity
+  8
+Vectors - back straps
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+657.2236203117502
+ 20
+630.0317306096211
+ 40
+2
+  0
+ARC
+  5
+6A
+100
+AcDbEntity
+  8
+Vectors - back straps
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+657.2236203117502
+ 20
+380.0317306096211
+ 40
+22.5
+100
+AcDbArc
+ 50
+180
+ 51
+0
+  0
+LINE
+  5
+6B
+100
+AcDbEntity
+  8
+Vectors - back straps
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
 492.0720300050158
  20
 630.9270573548076
@@ -3321,7 +3395,7 @@ AcDbLine
   0
 LINE
   5
-68
+6C
 100
 AcDbEntity
   8
@@ -3345,7 +3419,7 @@ AcDbLine
   0
 ARC
   5
-69
+6D
 100
 AcDbEntity
   8
@@ -3373,7 +3447,7 @@ AcDbArc
   0
 CIRCLE
   5
-6A
+6E
 100
 AcDbEntity
   8
@@ -3395,7 +3469,7 @@ AcDbCircle
   0
 ARC
   5
-6B
+6F
 100
 AcDbEntity
   8
@@ -3423,7 +3497,7 @@ AcDbArc
   0
 ARC
   5
-6C
+70
 100
 AcDbEntity
   8
@@ -3451,7 +3525,7 @@ AcDbArc
   0
 ARC
   5
-6D
+71
 100
 AcDbEntity
   8
@@ -3479,7 +3553,7 @@ AcDbArc
   0
 ARC
   5
-6E
+72
 100
 AcDbEntity
   8
@@ -3507,7 +3581,7 @@ AcDbArc
   0
 ARC
   5
-6F
+73
 100
 AcDbEntity
   8
@@ -3535,7 +3609,7 @@ AcDbArc
   0
 ARC
   5
-70
+74
 100
 AcDbEntity
   8
@@ -3563,7 +3637,7 @@ AcDbArc
   0
 ARC
   5
-71
+75
 100
 AcDbEntity
   8
@@ -3591,7 +3665,7 @@ AcDbArc
   0
 ARC
   5
-72
+76
 100
 AcDbEntity
   8
@@ -3619,7 +3693,7 @@ AcDbArc
   0
 CIRCLE
   5
-73
+77
 100
 AcDbEntity
   8
@@ -3641,7 +3715,7 @@ AcDbCircle
   0
 ARC
   5
-74
+78
 100
 AcDbEntity
   8
@@ -3669,7 +3743,7 @@ AcDbArc
   0
 ARC
   5
-75
+79
 100
 AcDbEntity
   8
@@ -3697,7 +3771,7 @@ AcDbArc
   0
 ARC
   5
-76
+7A
 100
 AcDbEntity
   8
@@ -3725,7 +3799,7 @@ AcDbArc
   0
 ARC
   5
-77
+7B
 100
 AcDbEntity
   8
@@ -3753,7 +3827,7 @@ AcDbArc
   0
 ARC
   5
-78
+7C
 100
 AcDbEntity
   8
@@ -3781,7 +3855,7 @@ AcDbArc
   0
 ARC
   5
-79
+7D
 100
 AcDbEntity
   8
@@ -3809,7 +3883,7 @@ AcDbArc
   0
 ARC
   5
-7A
+7E
 100
 AcDbEntity
   8
@@ -3837,7 +3911,7 @@ AcDbArc
   0
 CIRCLE
   5
-7B
+7F
 100
 AcDbEntity
   8
@@ -3854,6 +3928,532 @@ AcDbCircle
 665.1693240740537
  20
 724.2702267713935
+ 40
+2
+  0
+LINE
+  5
+80
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+994.3896269975445
+ 20
+367.8323389382552
+ 11
+994.3896269975445
+ 21
+514.6142849474465
+  0
+LINE
+  5
+81
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+994.3896269975445
+ 20
+751.0058327786819
+ 11
+1001.889626997544
+ 21
+743.5058327786821
+  0
+LINE
+  5
+82
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1021.889626997544
+ 20
+743.505832778682
+ 11
+1029.389626997544
+ 21
+751.0058327786819
+  0
+LINE
+  5
+83
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1021.889626997544
+ 20
+522.1142849474465
+ 11
+1029.389626997544
+ 21
+514.6142849474465
+  0
+LINE
+  5
+84
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1021.889626997544
+ 20
+743.505832778682
+ 11
+1021.889626997544
+ 21
+522.1142849474465
+  0
+LINE
+  5
+85
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+994.3896269975445
+ 20
+514.6142849474465
+ 11
+1001.889626997544
+ 21
+522.1142849474464
+  0
+LINE
+  5
+86
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1001.889626997544
+ 20
+743.5058327786821
+ 11
+1001.889626997544
+ 21
+522.1142849474464
+  0
+LINE
+  5
+87
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1029.389626997544
+ 20
+367.8323487625857
+ 11
+1029.389626997544
+ 21
+514.6142849474465
+  0
+ARC
+  5
+88
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+1011.889626997544
+ 20
+367.8323389382552
+ 40
+17.49999999999994
+100
+AcDbArc
+ 50
+180
+ 51
+359.9999678347045
+  0
+LINE
+  5
+89
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+994.3896269975444
+ 20
+917.7877540354443
+ 11
+994.3896269975445
+ 21
+751.0058327786819
+  0
+ARC
+  5
+8A
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+1011.889626997544
+ 20
+917.7877787878733
+ 40
+17.49999999999994
+100
+AcDbArc
+ 50
+8.704550208400293e-005
+ 51
+179.9999189594442
+  0
+LINE
+  5
+8B
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1029.389626997544
+ 20
+917.7877522013382
+ 11
+1029.389626997544
+ 21
+751.0058327786819
+  0
+ARC
+  5
+8C
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+793.8197633238666
+ 20
+173.6504733750754
+ 40
+17.5
+100
+AcDbArc
+ 50
+180
+ 51
+0
+  0
+ARC
+  5
+8D
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+793.8197633238667
+ 20
+808.8247710109929
+ 40
+17.5
+100
+AcDbArc
+ 50
+0
+ 51
+180
+  0
+LINE
+  5
+8E
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+811.3197633238666
+ 20
+173.6504733750754
+ 11
+811.3197633238667
+ 21
+808.8247710109929
+  0
+LINE
+  5
+8F
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+776.3197633238666
+ 20
+173.6504733750754
+ 11
+776.3197633238667
+ 21
+808.8247710109929
+  0
+LINE
+  5
+90
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+813.8197633238667
+ 20
+808.8247710109929
+ 11
+813.8197633238667
+ 21
+1182.562288482021
+  0
+LINE
+  5
+91
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+773.8197633238667
+ 20
+808.8247710109929
+ 11
+773.8197633238667
+ 21
+1182.562288482021
+  0
+ARC
+  5
+92
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+793.8197633238667
+ 20
+808.8247710109929
+ 40
+20
+100
+AcDbArc
+ 50
+180
+ 51
+360
+  0
+ARC
+  5
+93
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+793.8197633238667
+ 20
+1182.562288482021
+ 40
+20
+100
+AcDbArc
+ 50
+359.9999153826178
+ 51
+540.0000920598501
+  0
+CIRCLE
+  5
+94
+100
+AcDbEntity
+  8
+Vectors - armpit strap
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+793.8197633238667
+ 20
+808.8247710109929
  40
 2
   0
@@ -3879,7 +4479,7 @@ D
   3
 ACAD_IMAGE_DICT
 350
-7C
+95
   0
 DICTIONARY
   5
@@ -3893,19 +4493,31 @@ AcDbDictionary
   0
 IMAGEDEF_REACTOR
   5
-50
-330
 51
+330
+52
 100
 AcDbRasterImageDefReactor
  90
     2
 330
-51
+52
+  0
+IMAGEDEF_REACTOR
+  5
+54
+330
+55
+100
+AcDbRasterImageDefReactor
+ 90
+    2
+330
+55
   0
 DICTIONARY
   5
-7C
+95
 330
 C
 100
@@ -3915,15 +4527,19 @@ AcDbDictionary
   3
 Derringer-Pro-DLX-Tan_001-W__73971.1559688019
 350
-4F
+50
+  3
+Derringer-Pro-DLX-Tan_011-W__03156.1559688019
+350
+53
   0
 IMAGEDEF
   5
-4F
+50
 102
 {ACAD_REACTORS
 330
-50
+51
 102
 }
 100
@@ -3932,6 +4548,34 @@ AcDbRasterImageDef
     0
   1
 C:/Users/Markus Moisio/Pictures/Derringer-Pro-DLX-Tan_001-W__73971.1559688019.jpg
+ 10
+1280
+ 20
+1280
+ 11
+1
+ 21
+1
+280
+    1
+281
+    0
+  0
+IMAGEDEF
+  5
+53
+102
+{ACAD_REACTORS
+330
+54
+102
+}
+100
+AcDbRasterImageDef
+ 90
+    0
+  1
+C:/Users/Markus Moisio/Pictures/Derringer-Pro-DLX-Tan_011-W__03156.1559688019.jpg
  10
 1280
  20
