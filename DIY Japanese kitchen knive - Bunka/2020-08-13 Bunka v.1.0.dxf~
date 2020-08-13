@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-Measurements
+Blade
   9
 $CELTYPE
   6
@@ -4347,34 +4347,6 @@ AcDbEntity
   8
 Blade
   6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-919.3005776892664
- 20
-1343.040571892817
- 40
-915.8933092211386
-100
-AcDbArc
- 50
-268.406160714
- 51
-279.8722046322423
-  0
-ARC
-  5
-8D
-100
-AcDbEntity
-  8
-Blade
-  6
 ByLayer
  62
   256
@@ -4397,7 +4369,7 @@ AcDbArc
   0
 LINE
   5
-8E
+8D
 100
 AcDbEntity
   8
@@ -4421,7 +4393,7 @@ AcDbLine
   0
 LINE
   5
-8F
+8E
 100
 AcDbEntity
   8
@@ -4445,7 +4417,7 @@ AcDbLine
   0
 ARC
   5
-90
+8F
 100
 AcDbEntity
   8
@@ -4473,7 +4445,7 @@ AcDbArc
   0
 ARC
   5
-91
+90
 100
 AcDbEntity
   8
@@ -4501,7 +4473,7 @@ AcDbArc
   0
 LINE
   5
-92
+91
 100
 AcDbEntity
   8
@@ -4525,7 +4497,7 @@ AcDbLine
   0
 ARC
   5
-93
+92
 100
 AcDbEntity
   8
@@ -4553,7 +4525,7 @@ AcDbArc
   0
 LINE
   5
-94
+93
 100
 AcDbEntity
   8
@@ -4577,7 +4549,7 @@ AcDbLine
   0
 LINE
   5
-95
+94
 100
 AcDbEntity
   8
@@ -4601,7 +4573,7 @@ AcDbLine
   0
 ARC
   5
-96
+95
 100
 AcDbEntity
   8
@@ -4629,7 +4601,7 @@ AcDbArc
   0
 ARC
   5
-97
+96
 100
 AcDbEntity
   8
@@ -4657,7 +4629,7 @@ AcDbArc
   0
 ARC
   5
-98
+97
 100
 AcDbEntity
   8
@@ -4685,7 +4657,7 @@ AcDbArc
   0
 LINE
   5
-99
+98
 100
 AcDbEntity
   8
@@ -4709,7 +4681,7 @@ AcDbLine
   0
 ARC
   5
-9A
+99
 100
 AcDbEntity
   8
@@ -4737,7 +4709,7 @@ AcDbArc
   0
 LINE
   5
-9B
+9A
 100
 AcDbEntity
   8
@@ -4761,7 +4733,7 @@ AcDbLine
   0
 ARC
   5
-9C
+9B
 100
 AcDbEntity
   8
@@ -4789,7 +4761,7 @@ AcDbArc
   0
 LINE
   5
-9D
+9C
 100
 AcDbEntity
   8
@@ -4813,7 +4785,7 @@ AcDbLine
   0
 ARC
   5
-9E
+9D
 100
 AcDbEntity
   8
@@ -4841,7 +4813,7 @@ AcDbArc
   0
 LINE
   5
-9F
+9E
 100
 AcDbEntity
   8
@@ -4865,7 +4837,7 @@ AcDbLine
   0
 ARC
   5
-A0
+9F
 100
 AcDbEntity
   8
@@ -4893,7 +4865,7 @@ AcDbArc
   0
 LINE
   5
-A1
+A0
 100
 AcDbEntity
   8
@@ -4917,7 +4889,7 @@ AcDbLine
   0
 LINE
   5
-A2
+A1
 100
 AcDbEntity
   8
@@ -4941,7 +4913,7 @@ AcDbLine
   0
 ARC
   5
-A3
+A2
 100
 AcDbEntity
   8
@@ -4969,7 +4941,7 @@ AcDbArc
   0
 ARC
   5
-A4
+A3
 100
 AcDbEntity
   8
@@ -4997,7 +4969,7 @@ AcDbArc
   0
 LINE
   5
-A5
+A4
 100
 AcDbEntity
   8
@@ -5021,7 +4993,7 @@ AcDbLine
   0
 LINE
   5
-A6
+A5
 100
 AcDbEntity
   8
@@ -5045,7 +5017,7 @@ AcDbLine
   0
 ARC
   5
-A7
+A6
 100
 AcDbEntity
   8
@@ -5073,7 +5045,7 @@ AcDbArc
   0
 LINE
   5
-A8
+A7
 100
 AcDbEntity
   8
@@ -5097,7 +5069,7 @@ AcDbLine
   0
 ARC
   5
-A9
+A8
 100
 AcDbEntity
   8
@@ -5125,7 +5097,7 @@ AcDbArc
   0
 LINE
   5
-AA
+A9
 100
 AcDbEntity
   8
@@ -5149,7 +5121,7 @@ AcDbLine
   0
 DIMENSION
   5
-AB
+AA
 100
 AcDbEntity
   8
@@ -5209,7 +5181,7 @@ AcDbRotatedDimension
   0
 DIMENSION
   5
-AC
+AB
 100
 AcDbEntity
   8
@@ -5269,7 +5241,7 @@ AcDbRotatedDimension
   0
 DIMENSION
   5
-AD
+AC
 100
 AcDbEntity
   8
@@ -5331,7 +5303,7 @@ AcDbRotatedDimension
   0
 DIMENSION
   5
-AE
+AD
 100
 AcDbEntity
   8
@@ -5393,7 +5365,7 @@ AcDbRotatedDimension
   0
 DIMENSION
   5
-AF
+AE
 100
 AcDbEntity
   8
@@ -5450,6 +5422,34 @@ AcDbAlignedDimension
 0
 100
 AcDbRotatedDimension
+  0
+ARC
+  5
+AF
+100
+AcDbEntity
+  8
+Blade
+  6
+DASHEDTINY
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+919.3005776892664
+ 20
+1343.040571892817
+ 40
+905.8933092211386
+100
+AcDbArc
+ 50
+268.9771258558857
+ 51
+279.3104780504829
   0
 ENDSEC
   0
