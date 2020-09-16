@@ -31,9 +31,9 @@ $EXTMIN
   9
 $EXTMAX
  10
-182.2547561235245
+800
  20
-26.36550882833288
+1800
  30
 0
   9
@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-106.7917744442562
+148.0719544272467
  22
-33.83501764570494
+67.63247675491347
  13
 0
  23
@@ -1149,9 +1149,9 @@ AcDbViewportTableRecord
  37
 0
  40
-157.695350098732
+242.3257252239878
  41
-1.852490421455939
+1.771971496437055
  42
 50
  43
@@ -2121,7 +2121,7 @@ Center (.15x) ___ _ ___ _ ___ _ ___ _ ___ _ ___
  73
     4
  40
-7.62
+7.619999999999999
  49
 4.7625
  74
@@ -2663,7 +2663,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D2
+*D1
  70
     0
 280
@@ -2681,7 +2681,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D1
+*D2
  70
     0
 280
@@ -2803,7 +2803,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D2
+*D1
  70
     1
  10
@@ -2811,137 +2811,13 @@ AcDbBlockBegin
  20
 0
   3
-*D2
+*D1
   1
 
   0
 LINE
   5
 5A
-100
-AcDbEntity
-  8
-Measurements
-  6
-CONTINUOUS
- 62
-    7
-370
-    0
-100
-AcDbLine
- 10
--41.13396113500512
- 20
-4.775860499231285
- 11
--41.13396113500512
- 21
--17.22413950076871
-  0
-LINE
-  5
-5B
-100
-AcDbEntity
-  8
-Measurements
-  6
-CONTINUOUS
- 62
-    7
-370
-    0
-100
-AcDbLine
- 10
--41.13396113500512
- 20
--17.22413950076871
- 11
-23.86603886499488
- 21
--17.22413950076871
-  0
-SOLID
-  5
-5C
-100
-AcDbEntity
-  8
-Measurements
-  6
-CONTINUOUS
- 62
-    7
-370
-    0
-100
-AcDbTrace
- 10
--41.13396113500512
- 20
-4.775860499231285
- 30
-0
- 11
--40.71767647723228
- 21
-2.275860499231285
- 31
-0
- 12
--41.55024579277796
- 22
-2.275860499231285
- 32
-0
- 13
--41.55024579277796
- 23
-2.275860499231285
- 33
-0
-  0
-ENDBLK
-  5
-53
-330
-51
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-55
-330
-54
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D1
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D1
-  1
-
-  0
-LINE
-  5
-5D
 100
 AcDbEntity
   8
@@ -2965,7 +2841,7 @@ AcDbLine
   0
 LINE
   5
-5E
+5B
 100
 AcDbEntity
   8
@@ -2989,7 +2865,7 @@ AcDbLine
   0
 LINE
   5
-5F
+5C
 100
 AcDbEntity
   8
@@ -3013,7 +2889,7 @@ AcDbLine
   0
 SOLID
   5
-60
+5D
 100
 AcDbEntity
   8
@@ -3048,6 +2924,130 @@ AcDbTrace
 67.57588817798954
  23
 4.690271835369127
+ 33
+0
+  0
+ENDBLK
+  5
+53
+330
+51
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+55
+330
+54
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D2
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D2
+  1
+
+  0
+LINE
+  5
+5E
+100
+AcDbEntity
+  8
+Measurements
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbLine
+ 10
+-41.13396113500512
+ 20
+4.775860499231285
+ 11
+-41.13396113500512
+ 21
+-17.22413950076871
+  0
+LINE
+  5
+5F
+100
+AcDbEntity
+  8
+Measurements
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbLine
+ 10
+-41.13396113500512
+ 20
+-17.22413950076871
+ 11
+23.86603886499488
+ 21
+-17.22413950076871
+  0
+SOLID
+  5
+60
+100
+AcDbEntity
+  8
+Measurements
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbTrace
+ 10
+-41.13396113500512
+ 20
+4.775860499231285
+ 30
+0
+ 11
+-40.71767647723228
+ 21
+2.275860499231285
+ 31
+0
+ 12
+-41.55024579277796
+ 22
+2.275860499231285
+ 32
+0
+ 13
+-41.55024579277796
+ 23
+2.275860499231285
  33
 0
   0
@@ -3115,7 +3115,7 @@ AcDbRasterImage
  31
 0
  12
-6.123233995736766e-017
+6.123233995736766e-17
  22
 1
  32
@@ -3646,8 +3646,6 @@ AcDbDimension
    32
  71
     5
- 72
-    0
   3
 Standard
  53
@@ -3706,8 +3704,6 @@ AcDbDimension
    32
  71
     5
- 72
-    0
   3
 Standard
  53
@@ -3766,8 +3762,6 @@ AcDbDimension
    32
  71
     5
- 72
-    0
   3
 Standard
  53
@@ -3828,8 +3822,6 @@ AcDbDimension
    32
  71
     5
- 72
-    0
   3
 Standard
  53
@@ -10365,7 +10357,7 @@ AcDbRasterImage
  31
 0
  12
-6.123031769111886e-017
+6.123031769111886e-17
  22
 1
  32
@@ -10417,7 +10409,7 @@ AcDbRasterImage
  31
 0
  12
-6.123031769111886e-017
+6.123031769111886e-17
  22
 1
  32
@@ -11721,7 +11713,7 @@ AcDbRasterImageDef
  90
     0
   1
-C:/Users/Markus Moisio/Google Drive/Git/Public-DIY/DIY kitchen knives/Yoshida_Hamono_ZDP-189_Bunka_Black.jpeg
+/home/mosse/git/Public DIY/DIY kitchen knives/Yoshida_Hamono_ZDP-189_Bunka_Black.jpeg
  10
 2047
  20
@@ -11751,7 +11743,7 @@ AcDbRasterImageDef
  90
     0
   1
-C:/Users/Markus Moisio/Google Drive/Git/Public-DIY/DIY kitchen knives/Forged Hunting Knife.jpg
+/home/mosse/git/Public DIY/DIY kitchen knives/Forged Hunting Knife.jpg
  10
 800
  20
